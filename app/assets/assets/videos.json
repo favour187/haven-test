@@ -1,0 +1,170 @@
+[
+  {
+    "id": "v-dentist-1", "title": "Going to the dentist", "bands": ["CHILD", "MIDDLE"],
+    "category": "dentist", "durationSec": 120, "captions": "captions/v-dentist-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.2, "thumb": "🦷", "needsRecording": true,
+    "whatHappens": "Wait in the room, sit in the special chair, open your mouth, the dentist counts your teeth, done."
+  },
+  {
+    "id": "v-doctor-1", "title": "A check-up at the doctor", "bands": ["CHILD", "MIDDLE", "TEEN"],
+    "category": "doctor", "durationSec": 150, "captions": "captions/v-doctor-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.0, "thumb": "🩺", "needsRecording": true,
+    "whatHappens": "Say your name, step on the scale, the doctor listens to your chest, one question at a time, done."
+  },
+  {
+    "id": "v-haircut-1", "title": "Getting a haircut", "bands": ["CHILD", "MIDDLE"],
+    "category": "haircut", "durationSec": 100, "captions": "captions/v-haircut-1.vtt",
+    "downloadUrl": "", "sizeMB": 3.4, "thumb": "💇", "needsRecording": true,
+    "whatHappens": "Sit in the chair, the cape goes on, clippers buzz, hair falls, the cape comes off, done."
+  },
+  {
+    "id": "v-bus-1", "title": "Riding the bus", "bands": ["CHILD", "MIDDLE", "TEEN"],
+    "category": "bus", "durationSec": 130, "captions": "captions/v-bus-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.5, "thumb": "🚌", "needsRecording": true,
+    "whatHappens": "Wait at the stop, get on, tap your card, sit down, watch your stop, pull the cord, get off."
+  },
+  {
+    "id": "v-train-1", "title": "Taking the train", "bands": ["MIDDLE", "TEEN", "ADULT"],
+    "category": "train", "durationSec": 150, "captions": "captions/v-train-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.1, "thumb": "🚆", "needsRecording": true,
+    "whatHappens": "Find the platform, check the board, board, find your seat, listen for your stop."
+  },
+  {
+    "id": "v-airport-1", "title": "Going through the airport", "bands": ["MIDDLE", "TEEN", "ADULT"],
+    "category": "airport", "durationSec": 180, "captions": "captions/v-airport-1.vtt",
+    "downloadUrl": "", "sizeMB": 6.3, "thumb": "✈️", "needsRecording": true,
+    "whatHappens": "Check bags, security: liquids out, walk through the scanner, collect things, find the gate, wait, board."
+  },
+  {
+    "id": "v-school-first-1", "title": "First day at a new school", "bands": ["CHILD", "MIDDLE", "TEEN"],
+    "category": "first day at school", "durationSec": 160, "captions": "captions/v-school-first-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.6, "thumb": "🏫", "needsRecording": true,
+    "whatHappens": "Arrive at the gate, go to the office, meet the teacher, find your classroom, break time happens, home time."
+  },
+  {
+    "id": "v-work-first-1", "title": "First day at a new job", "bands": ["TEEN", "ADULT"],
+    "category": "first day at work", "durationSec": 170, "captions": "captions/v-work-first-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.9, "thumb": "💼", "needsRecording": true,
+    "whatHappens": "Arrive, say who you are at reception, meet your manager, get shown the desk and the tools, lunch happens, first task."
+  },
+  {
+    "id": "v-firealarm-1", "title": "What the fire alarm sounds like", "bands": ["CHILD", "MIDDLE", "TEEN", "ADULT"],
+    "category": "fire alarm", "durationSec": 90, "captions": "captions/v-firealarm-1.vtt",
+    "downloadUrl": "", "sizeMB": 2.9, "thumb": "🚨", "needsRecording": true,
+    "whatHappens": "The sound starts, everyone walks out calmly, stand at the meeting point, the sound stops, we go back in. You can cover your ears."
+  },
+  {
+    "id": "v-shopping-1", "title": "Grocery shopping", "bands": ["CHILD", "MIDDLE", "TEEN", "ADULT"],
+    "category": "shopping", "durationSec": 140, "captions": "captions/v-shopping-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.8, "thumb": "🛒", "needsRecording": true,
+    "whatHappens": "Take a basket, find items on your list, queue, items move on the belt, pay, pack, done."
+  },
+  {
+    "id": "v-restaurant-1", "title": "Eating at a restaurant", "bands": ["CHILD", "MIDDLE", "TEEN", "ADULT"],
+    "category": "restaurant", "durationSec": 150, "captions": "captions/v-restaurant-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.2, "thumb": "🍽️", "needsRecording": true,
+    "whatHappens": "A waiter shows you a table, you choose food, food arrives, you eat, you ask for the bill, you pay."
+  },
+  {
+    "id": "v-loud-places-1", "title": "Handling loud places", "bands": ["CHILD", "MIDDLE", "TEEN", "ADULT"],
+    "category": "loud places", "durationSec": 120, "captions": "captions/v-loud-places-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.0, "thumb": "🔊", "needsRecording": true,
+    "whatHappens": "What loud places feel like, and three things you can do: ear defenders, a break outside, or leaving. All are okay."
+  },
+  {
+    "id": "v-newpeople-1", "title": "Meeting new people", "bands": ["MIDDLE", "TEEN", "ADULT"],
+    "category": "meeting new people", "durationSec": 130, "captions": "captions/v-newpeople-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.4, "thumb": "🤝", "needsRecording": true,
+    "whatHappens": "Say hello, say your name, one question each is enough. Leaving after a short time is allowed."
+  },
+  {
+    "id": "v-bloodtest-1", "title": "Having a blood test", "bands": ["CHILD", "MIDDLE", "TEEN", "ADULT"],
+    "category": "blood test", "durationSec": 110, "captions": "captions/v-bloodtest-1.vtt",
+    "downloadUrl": "", "sizeMB": 3.8, "thumb": "💉", "needsRecording": true,
+    "whatHappens": "Sit down, sleeve up, a tight band, a quick pinch, a small tube fills, a plaster, done in about two minutes."
+  },
+  {
+    "id": "v-moving-1", "title": "Moving house", "bands": ["MIDDLE", "TEEN", "ADULT"],
+    "category": "moving house", "durationSec": 160, "captions": "captions/v-moving-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.5, "thumb": "📦", "needsRecording": true,
+    "whatHappens": "Boxes get packed, the van comes, things arrive in the new room in the same order, your bed is set up first."
+  },
+  {
+    "id": "v-teacher-change-1", "title": "When a teacher changes", "bands": ["CHILD", "MIDDLE"],
+    "category": "change of teacher", "durationSec": 120, "captions": "captions/v-teacher-change-1.vtt",
+    "downloadUrl": "", "sizeMB": 4.1, "thumb": "🧑‍🏫", "needsRecording": true,
+    "whatHappens": "The old teacher says goodbye, a new teacher has a different voice and different rules, and that is allowed to feel strange. The rules list stays the same."
+  },
+  {
+    "id": "v-bloodtest-adult", "title": "A hospital appointment, step by step", "bands": ["ADULT"],
+    "category": "doctor", "durationSec": 170, "captions": "captions/v-bloodtest-adult.vtt",
+    "downloadUrl": "", "sizeMB": 5.8, "thumb": "🏥", "needsRecording": true,
+    "whatHappens": "Check in at reception, wait where it is quiet if you can, name called, appointment, next appointment booked, leave."
+  },
+  {
+    "id": "v-bus-adult", "title": "Bus route to work, first time", "bands": ["ADULT"],
+    "category": "bus", "durationSec": 140, "captions": "captions/v-bus-adult.vtt",
+    "downloadUrl": "", "sizeMB": 4.7, "thumb": "🚌", "needsRecording": true,
+    "whatHappens": "Check the time on the timetable app, stop A, three stops, get off at the stop before the bridge, walk two minutes."
+  },
+  {
+    "id": "v-school-transition", "title": "Moving up to the next class", "bands": ["MIDDLE", "TEEN"],
+    "category": "first day at school", "durationSec": 140, "captions": "captions/v-school-transition.vtt",
+    "downloadUrl": "", "sizeMB": 4.9, "thumb": "🎒", "needsRecording": true,
+    "whatHappens": "Same building, new room number, new timetable on the wall, you can take a photo of it."
+  },
+  {
+    "id": "v-interview-1", "title": "What a job interview looks like", "bands": ["ADULT"],
+    "category": "meeting new people", "durationSec": 160, "captions": "captions/v-interview-1.vtt",
+    "downloadUrl": "", "sizeMB": 5.4, "thumb": "🪑", "needsRecording": true,
+    "whatHappens": "Wait, name called, sit, questions one at a time, you may take notes, you may ask for a question again, it ends on time."
+  },
+  {
+    "id": "v-loud-adult", "title": "Concerts, markets, and crowded streets", "bands": ["ADULT"],
+    "category": "loud places", "durationSec": 130, "captions": "captions/v-loud-adult.vtt",
+    "downloadUrl": "", "sizeMB": 4.5, "thumb": "📢", "needsRecording": true,
+    "whatHappens": "Plan the quiet exit first, earplugs in a pocket, a break is not leaving early, it is part of the plan."
+  },
+  {
+    "id": "v-train-adult", "title": "Commuting by train", "bands": ["ADULT", "TEEN"],
+    "category": "train", "durationSec": 150, "captions": "captions/v-train-adult.vtt",
+    "downloadUrl": "", "sizeMB": 5.0, "thumb": "🚈", "needsRecording": true,
+    "whatHappens": "Platform board, quiet coach option, seat facing the wall, delay announcements are normal, not an emergency."
+  },
+  {
+    "id": "v-haircut-adult", "title": "A calm haircut for adults", "bands": ["ADULT", "TEEN"],
+    "category": "haircut", "durationSec": 100, "captions": "captions/v-haircut-adult.vtt",
+    "downloadUrl": "", "sizeMB": 3.5, "thumb": "💈", "needsRecording": true,
+    "whatHappens": "Book the first slot of the day, say exactly what you want, clippers or scissors, no small talk required."
+  },
+  {
+    "id": "v-airport-adult", "title": "Airport security without surprises", "bands": ["ADULT", "TEEN"],
+    "category": "airport", "durationSec": 150, "captions": "captions/v-airport-adult.vtt",
+    "downloadUrl": "", "sizeMB": 5.1, "thumb": "🛃", "needsRecording": true,
+    "whatHappens": "Liquids in a clear bag, laptop out, tell staff you are autistic if you want more time, it is allowed."
+  },
+  {
+    "id": "v-shopping-adult", "title": "Food shopping on a low-energy day", "bands": ["ADULT"],
+    "category": "shopping", "durationSec": 120, "captions": "captions/v-shopping-adult.vtt",
+    "downloadUrl": "", "sizeMB": 4.2, "thumb": "🛍️", "needsRecording": true,
+    "whatHappens": "Same list order as last time, quiet hour if the shop has one, self-checkout, headphones are fine."
+  },
+  {
+    "id": "v-restaurant-adult", "title": "Ordering food by yourself", "bands": ["ADULT", "TEEN"],
+    "category": "restaurant", "durationSec": 120, "captions": "captions/v-restaurant-adult.vtt",
+    "downloadUrl": "", "sizeMB": 4.3, "thumb": "🥗", "needsRecording": true,
+    "whatHappens": "Read the menu online first if you like, order exactly as written, asking for changes is normal."
+  },
+  {
+    "id": "v-newpeople-teen", "title": "New classmates and group work", "bands": ["TEEN"],
+    "category": "meeting new people", "durationSec": 130, "captions": "captions/v-newpeople-teen.vtt",
+    "downloadUrl": "", "sizeMB": 4.6, "thumb": "👥", "needsRecording": true,
+    "whatHappens": "Group work: one job each, you can ask for the written-instructions job, saying less is fine."
+  },
+  {
+    "id": "v-moving-teen", "title": "Changing support people or classes", "bands": ["TEEN"],
+    "category": "change of teacher", "durationSec": 130, "captions": "captions/v-moving-teen.vtt",
+    "downloadUrl": "", "sizeMB": 4.4, "thumb": "🔀", "needsRecording": true,
+    "whatHappens": "One person leaves, a new one arrives, the notes about what helps you move with you."
+  }
+]
