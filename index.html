@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Haven — test builds</title>
+<style>
+  :root { --ink:#20303c; --soft:#5c7285; --line:#dbe4ea; --accent:#4a6b8a; --ok:#2e7d54; --bad:#a04434; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:#f4f7f9; line-height:1.55; }
+  main { max-width:760px; margin:0 auto; padding:32px 20px 64px; }
+  h1 { font-size:1.9rem; margin:0 0 4px; }
+  h2 { font-size:1.15rem; margin:34px 0 10px; }
+  .tag { color:var(--soft); font-size:.95rem; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin:14px 0; }
+  .status { display:flex; align-items:center; gap:10px; font-weight:600; }
+  .dot { width:12px; height:12px; border-radius:50%; background:#c9b458; flex:none; }
+  .dot.ok { background:var(--ok); } .dot.bad { background:var(--bad); }
+  .meta { color:var(--soft); font-size:.9rem; margin-top:6px; }
+  a.btn { display:inline-block; background:var(--accent); color:#fff; text-decoration:none; padding:10px 18px; border-radius:10px; font-weight:600; margin:6px 8px 0 0; }
+  a.btn.secondary { background:#e6edf2; color:var(--ink); }
+  code { background:#eef2f5; padding:1px 6px; border-radius:6px; font-size:.9em; }
+  ul { margin:8px 0; padding-left:22px; }
+  footer { color:var(--soft); font-size:.85rem; margin-top:40px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Haven</h1>
+  <p class="tag">Temporary test page — download the latest build, check the backend, see what changed. This page is for the project owner while Haven is being finished.</p>
+
+  <h2>Backend status (live)</h2>
+  <div class="card">
+    <div class="status"><span class="dot" id="dot"></span><span id="statusText">Checking…</span></div>
+    <div class="meta" id="statusMeta">haven.onilamolubunmi.workers.dev</div>
+  </div>
+
+  <h2>Install a build</h2>
+  <div class="card">
+    <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>):</p>
+    <a class="btn" href="https://github.com/favour187/haven/releases/latest" target="_blank" rel="noopener">Latest release & APKs →</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases" target="_blank" rel="noopener">All releases</a>
+    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline.</p>
+  </div>
+
+  <h2>Try it in the browser (early)</h2>
+  <div class="card">
+    <p>A web build of the app appears <a id="webLink" href="app/">here</a> once the web build lands. The browser version is for trying flows — your data stays in this browser, and checkout runs in the Android app.</p>
+  </div>
+
+  <h2>What's new</h2>
+  <div class="card">
+    <ul>
+      <li><strong>v1.0.1</strong> — much smaller APKs (unused AI models removed), big/small text now applies everywhere instantly, Writing help, SOS alerts to trusted people, appointments with reminders, videos remember where you stopped.</li>
+      <li><strong>v1.0.0</strong> — first release: all four age bands, 20 features, 228 games, encrypted storage, in-app checkout.</li>
+    </ul>
+  </div>
+
+  <footer>Haven · same features as Supportive, rebuilt in Flutter · this page is temporary and will move when the app is ready.</footer>
+</main>
+<script>
+  fetch('https://haven.onilamolubunmi.workers.dev/health')
+    .then(r => r.json())
+    .then(h => {
+      const dot = document.getElementById('dot');
+      const text = document.getElementById('statusText');
+      if (h && h.ok) {
+        dot.classList.add('ok');
+        text.textContent = 'Online · ' + (h.mode === 'proxy-fallback' ? 'proxy mode (same secrets as Supportive)' : 'direct mode');
+        document.getElementById('statusMeta').textContent =
+          'billing ' + (h.billing ? 'ready' : 'proxied') + ' · alerts sms:' + (h.alerts ? h.alerts.sms : '?') + ' whatsapp:' + (h.alerts ? h.alerts.whatsapp : '?') + ' · ai:' + (h.companion ? 'ready' : 'not configured');
+      } else { dot.classList.add('bad'); text.textContent = 'Backend responded but not healthy'; }
+    })
+    .catch(() => { const d = document.getElementById('dot'); d.classList.add('bad'); document.getElementById('statusText').textContent = 'Backend unreachable'; });
+</script>
+</body>
+</html>
