@@ -66,17 +66,24 @@
     <div class="s">Loading — the first start can take up to a minute.<br>After that it opens quickly.</div>
   </div>
   <script>
-    window.addEventListener('load', function () {
+    // Flutter draws into a canvas inside nested shadow roots
+    // (flutter-view -> flt-glass-pane -> shadow canvas), which plain
+    // querySelector cannot see. Probe every place it can be, and always
+    // fade out after 90 s as a safety net.
+    (function () {
+      function canvasPainted() {
+        if (document.querySelector('canvas')) return true;
+        var gp = document.querySelector('flt-glass-pane');
+        if (gp && gp.shadowRoot && gp.shadowRoot.querySelector('canvas')) return true;
+        var v = document.querySelector('flutter-view');
+        if (v && v.shadowRoot && v.shadowRoot.querySelector('canvas')) return true;
+        var any = document.querySelectorAll('flt-glass-pane, flt-scene-host');
+        return any.length > 0;
+      }
       var ticks = 0;
       var timer = setInterval(function () {
         ticks++;
-        var view = document.querySelector('flutter-view');
-        var painting = false;
-        if (view) {
-          var root = view.shadowRoot || view;
-          painting = !!(root.querySelector('canvas') || root.querySelector('FLT-VIEW-CONTAINER'));
-        }
-        if (painting || ticks > 360) {
+        if (canvasPainted() || ticks > 180) {
           clearInterval(timer);
           var boot = document.getElementById('boot');
           if (boot) {
@@ -85,7 +92,7 @@
           }
         }
       }, 500);
-    });
+    })();
   </script>
 </body>
 </html>
