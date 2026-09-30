@@ -1,5174 +1,5180 @@
 [
- {
-  "id": "spot-difference-0",
-  "title": "Spot the difference 1",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🌸",
-    "🚌"
-   ],
-   "diffs": [
-    6
-   ]
+  {
+    "id": "spot-difference-0",
+    "title": "Spot the difference 1",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🌸",
+        "🚌"
+      ],
+      "diffs": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-1",
+    "title": "Spot the difference 2",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🥕",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-2",
+    "title": "Spot the difference 3",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🍉",
+        "🚌"
+      ],
+      "diffs": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-3",
+    "title": "Spot the difference 4",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🌙"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-4",
+    "title": "Spot the difference 5",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🍌",
+        "🚌"
+      ],
+      "diffs": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-5",
+    "title": "Spot the difference 6",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚗"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-6",
+    "title": "Spot the difference 7",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🍎",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-7",
+    "title": "Spot the difference 8",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "☁️",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-8",
+    "title": "Spot the difference 9",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🌽"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-9",
+    "title": "Spot the difference 10",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍎",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-10",
+    "title": "Spot the difference 11",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🌙",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-11",
+    "title": "Spot the difference 12",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🥕",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-12",
+    "title": "Spot the difference 13",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🍇",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-13",
+    "title": "Spot the difference 14",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🥕"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-14",
+    "title": "Spot the difference 15",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🥕",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-15",
+    "title": "Spot the difference 16",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🌽",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-16",
+    "title": "Spot the difference 17",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🚌",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        5
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-17",
+    "title": "Spot the difference 18",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🌸"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-18",
+    "title": "Spot the difference 19",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🌸",
+        "🚌"
+      ],
+      "diffs": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-19",
+    "title": "Spot the difference 20",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🚗",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-20",
+    "title": "Spot the difference 21",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍎",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        1
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-21",
+    "title": "Spot the difference 22",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "☁️",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-22",
+    "title": "Spot the difference 23",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🚌",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "diffs": [
+        2
+      ]
+    }
+  },
+  {
+    "id": "spot-difference-23",
+    "title": "Spot the difference 24",
+    "mechanic": "SPOT_DIFFERENCE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pairs": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "🚌"
+      ],
+      "pairsB": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽",
+        "🚗",
+        "⭐"
+      ],
+      "diffs": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "clock-reading-0",
+    "title": "What time is it? 1",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 1,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-1",
+    "title": "What time is it? 2",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 2,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-2",
+    "title": "What time is it? 3",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 3,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-3",
+    "title": "What time is it? 4",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 4,
+      "minute": 45
+    }
+  },
+  {
+    "id": "clock-reading-4",
+    "title": "What time is it? 5",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 5,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-5",
+    "title": "What time is it? 6",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 6,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-6",
+    "title": "What time is it? 7",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 7,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-7",
+    "title": "What time is it? 8",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 8,
+      "minute": 45
+    }
+  },
+  {
+    "id": "clock-reading-8",
+    "title": "What time is it? 9",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 9,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-9",
+    "title": "What time is it? 10",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 10,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-10",
+    "title": "What time is it? 11",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 11,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-11",
+    "title": "What time is it? 12",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 12,
+      "minute": 45
+    }
+  },
+  {
+    "id": "clock-reading-12",
+    "title": "What time is it? 13",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 1,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-13",
+    "title": "What time is it? 14",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 2,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-14",
+    "title": "What time is it? 15",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 3,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-15",
+    "title": "What time is it? 16",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 4,
+      "minute": 45
+    }
+  },
+  {
+    "id": "clock-reading-16",
+    "title": "What time is it? 17",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 5,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-17",
+    "title": "What time is it? 18",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 6,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-18",
+    "title": "What time is it? 19",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 7,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-19",
+    "title": "What time is it? 20",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 8,
+      "minute": 45
+    }
+  },
+  {
+    "id": "clock-reading-20",
+    "title": "What time is it? 21",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 9,
+      "minute": 0
+    }
+  },
+  {
+    "id": "clock-reading-21",
+    "title": "What time is it? 22",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 10,
+      "minute": 30
+    }
+  },
+  {
+    "id": "clock-reading-22",
+    "title": "What time is it? 23",
+    "mechanic": "CLOCK_READING",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 11,
+      "minute": 15
+    }
+  },
+  {
+    "id": "clock-reading-23",
+    "title": "What time is it? 24",
+    "mechanic": "CLOCK_READING",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "hour": 12,
+      "minute": 45
+    }
+  },
+  {
+    "id": "money-count-0",
+    "title": "Count the money 1",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-1",
+    "title": "Count the money 2",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        200,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-2",
+    "title": "Count the money 3",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        200,
+        500,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-3",
+    "title": "Count the money 4",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-4",
+    "title": "Count the money 5",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        200,
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-5",
+    "title": "Count the money 6",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        100,
+        500,
+        200
+      ]
+    }
+  },
+  {
+    "id": "money-count-6",
+    "title": "Count the money 7",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-7",
+    "title": "Count the money 8",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        200,
+        50,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-8",
+    "title": "Count the money 9",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        200,
+        500,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-9",
+    "title": "Count the money 10",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-10",
+    "title": "Count the money 11",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50,
+        200
+      ]
+    }
+  },
+  {
+    "id": "money-count-11",
+    "title": "Count the money 12",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        100,
+        200,
+        500
+      ]
+    }
+  },
+  {
+    "id": "money-count-12",
+    "title": "Count the money 13",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-13",
+    "title": "Count the money 14",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        200,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-14",
+    "title": "Count the money 15",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        500,
+        200,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-15",
+    "title": "Count the money 16",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-16",
+    "title": "Count the money 17",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        200,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-17",
+    "title": "Count the money 18",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        50,
+        200,
+        100,
+        500
+      ]
+    }
+  },
+  {
+    "id": "money-count-18",
+    "title": "Count the money 19",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-19",
+    "title": "Count the money 20",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50,
+        200
+      ]
+    }
+  },
+  {
+    "id": "money-count-20",
+    "title": "Count the money 21",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        200,
+        50,
+        500,
+        100
+      ]
+    }
+  },
+  {
+    "id": "money-count-21",
+    "title": "Count the money 22",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-22",
+    "title": "Count the money 23",
+    "mechanic": "MONEY_COUNT",
+    "pro": false,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        200,
+        50
+      ]
+    }
+  },
+  {
+    "id": "money-count-23",
+    "title": "Count the money 24",
+    "mechanic": "MONEY_COUNT",
+    "pro": true,
+    "skills": [
+      "money"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "coins": [
+        100,
+        500,
+        50,
+        200
+      ]
+    }
+  },
+  {
+    "id": "true-or-false-0",
+    "title": "True or false 1",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A week has seven days.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-1",
+    "title": "True or false 2",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "There are twelve months in a year.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-2",
+    "title": "True or false 3",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Ice is colder than water.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-3",
+    "title": "True or false 4",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A triangle has four sides.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-4",
+    "title": "True or false 5",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "The sun rises in the morning.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-5",
+    "title": "True or false 6",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Ten is less than five.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-6",
+    "title": "True or false 7",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Birds can fly.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-7",
+    "title": "True or false 8",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Fish live in trees.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-8",
+    "title": "True or false 9",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Two plus two equals four.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-9",
+    "title": "True or false 10",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Rain is dry.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-10",
+    "title": "True or false 11",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A bus has wheels.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-11",
+    "title": "True or false 12",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Night comes after day.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-12",
+    "title": "True or false 13",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A square has three corners.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-13",
+    "title": "True or false 14",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Milk is a drink.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-14",
+    "title": "True or false 15",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Shoes are worn on hands.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-15",
+    "title": "True or false 16",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A clock shows time.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-16",
+    "title": "True or false 17",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Five is more than three.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-17",
+    "title": "True or false 18",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Cats bark.",
+      "answer": false
+    }
+  },
+  {
+    "id": "true-or-false-18",
+    "title": "True or false 19",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Water boils when heated.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-19",
+    "title": "True or false 20",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Sunday comes after Saturday.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-20",
+    "title": "True or false 21",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "A half is smaller than a whole.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-21",
+    "title": "True or false 22",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Winter is usually cold.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-22",
+    "title": "True or false 23",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Apples grow on trees.",
+      "answer": true
+    }
+  },
+  {
+    "id": "true-or-false-23",
+    "title": "True or false 24",
+    "mechanic": "TRUE_OR_FALSE",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "statement": "Spoons are used for cutting wood.",
+      "answer": false
+    }
+  },
+  {
+    "id": "stop-the-clock-0",
+    "title": "Stop the clock 1",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 3
+    }
+  },
+  {
+    "id": "stop-the-clock-1",
+    "title": "Stop the clock 2",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 4
+    }
+  },
+  {
+    "id": "stop-the-clock-2",
+    "title": "Stop the clock 3",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 5
+    }
+  },
+  {
+    "id": "stop-the-clock-3",
+    "title": "Stop the clock 4",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 6
+    }
+  },
+  {
+    "id": "stop-the-clock-4",
+    "title": "Stop the clock 5",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 7
+    }
+  },
+  {
+    "id": "stop-the-clock-5",
+    "title": "Stop the clock 6",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 8
+    }
+  },
+  {
+    "id": "stop-the-clock-6",
+    "title": "Stop the clock 7",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 9
+    }
+  },
+  {
+    "id": "stop-the-clock-7",
+    "title": "Stop the clock 8",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 10
+    }
+  },
+  {
+    "id": "stop-the-clock-8",
+    "title": "Stop the clock 9",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 3
+    }
+  },
+  {
+    "id": "stop-the-clock-9",
+    "title": "Stop the clock 10",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 4
+    }
+  },
+  {
+    "id": "stop-the-clock-10",
+    "title": "Stop the clock 11",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 5
+    }
+  },
+  {
+    "id": "stop-the-clock-11",
+    "title": "Stop the clock 12",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 6
+    }
+  },
+  {
+    "id": "stop-the-clock-12",
+    "title": "Stop the clock 13",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 7
+    }
+  },
+  {
+    "id": "stop-the-clock-13",
+    "title": "Stop the clock 14",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 8
+    }
+  },
+  {
+    "id": "stop-the-clock-14",
+    "title": "Stop the clock 15",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 9
+    }
+  },
+  {
+    "id": "stop-the-clock-15",
+    "title": "Stop the clock 16",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 10
+    }
+  },
+  {
+    "id": "stop-the-clock-16",
+    "title": "Stop the clock 17",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 3
+    }
+  },
+  {
+    "id": "stop-the-clock-17",
+    "title": "Stop the clock 18",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 4
+    }
+  },
+  {
+    "id": "stop-the-clock-18",
+    "title": "Stop the clock 19",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 5
+    }
+  },
+  {
+    "id": "stop-the-clock-19",
+    "title": "Stop the clock 20",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 6
+    }
+  },
+  {
+    "id": "stop-the-clock-20",
+    "title": "Stop the clock 21",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 7
+    }
+  },
+  {
+    "id": "stop-the-clock-21",
+    "title": "Stop the clock 22",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 8
+    }
+  },
+  {
+    "id": "stop-the-clock-22",
+    "title": "Stop the clock 23",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": false,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 9
+    }
+  },
+  {
+    "id": "stop-the-clock-23",
+    "title": "Stop the clock 24",
+    "mechanic": "STOP_THE_CLOCK",
+    "pro": true,
+    "skills": [
+      "timing"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "target": 10
+    }
+  },
+  {
+    "id": "change-count-0",
+    "title": "Which sound? 1",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A dog barking",
+      "answer": "Dog",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-1",
+    "title": "Which sound? 2",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Rain on a window",
+      "answer": "Rain",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-2",
+    "title": "Which sound? 3",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A kettle boiling",
+      "answer": "Kettle",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-3",
+    "title": "Which sound? 4",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Birds in the morning",
+      "answer": "Birds",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-4",
+    "title": "Which sound? 5",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A car passing",
+      "answer": "Car",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-5",
+    "title": "Which sound? 6",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Waves at a beach",
+      "answer": "Waves",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-6",
+    "title": "Which sound? 7",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A dog barking",
+      "answer": "Dog",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-7",
+    "title": "Which sound? 8",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Rain on a window",
+      "answer": "Rain",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-8",
+    "title": "Which sound? 9",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A kettle boiling",
+      "answer": "Kettle",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-9",
+    "title": "Which sound? 10",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Birds in the morning",
+      "answer": "Birds",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-10",
+    "title": "Which sound? 11",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A car passing",
+      "answer": "Car",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-11",
+    "title": "Which sound? 12",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Waves at a beach",
+      "answer": "Waves",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-12",
+    "title": "Which sound? 13",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A dog barking",
+      "answer": "Dog",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-13",
+    "title": "Which sound? 14",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Rain on a window",
+      "answer": "Rain",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-14",
+    "title": "Which sound? 15",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A kettle boiling",
+      "answer": "Kettle",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-15",
+    "title": "Which sound? 16",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Birds in the morning",
+      "answer": "Birds",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-16",
+    "title": "Which sound? 17",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A car passing",
+      "answer": "Car",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-17",
+    "title": "Which sound? 18",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Waves at a beach",
+      "answer": "Waves",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-18",
+    "title": "Which sound? 19",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A dog barking",
+      "answer": "Dog",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-19",
+    "title": "Which sound? 20",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Rain on a window",
+      "answer": "Rain",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-20",
+    "title": "Which sound? 21",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A kettle boiling",
+      "answer": "Kettle",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-21",
+    "title": "Which sound? 22",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Birds in the morning",
+      "answer": "Birds",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-22",
+    "title": "Which sound? 23",
+    "mechanic": "CHANGE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A car passing",
+      "answer": "Car",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "change-count-23",
+    "title": "Which sound? 24",
+    "mechanic": "CHANGE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Waves at a beach",
+      "answer": "Waves",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-0",
+    "title": "Colour rule 1",
+    "mechanic": "COLOUR_RULE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the red one",
+      "options": [
+        "🟥",
+        "🟦",
+        "🟩"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-1",
+    "title": "Colour rule 2",
+    "mechanic": "COLOUR_RULE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the green one",
+      "options": [
+        "🟩",
+        "🟥",
+        "🟨"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-2",
+    "title": "Colour rule 3",
+    "mechanic": "COLOUR_RULE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the yellow one",
+      "options": [
+        "🟨",
+        "🟪",
+        "🟦"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-3",
+    "title": "Colour rule 4",
+    "mechanic": "COLOUR_RULE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the red one",
+      "options": [
+        "🟥",
+        "🟦",
+        "🟩"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-4",
+    "title": "Colour rule 5",
+    "mechanic": "COLOUR_RULE",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the green one",
+      "options": [
+        "🟩",
+        "🟥",
+        "🟨"
+      ]
+    }
+  },
+  {
+    "id": "colour-rule-5",
+    "title": "Colour rule 6",
+    "mechanic": "COLOUR_RULE",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "rule": "Pick the yellow one",
+      "options": [
+        "🟨",
+        "🟪",
+        "🟦"
+      ]
+    }
+  },
+  {
+    "id": "odd-one-out-0",
+    "title": "Odd one out 1",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "odd-one-out-1",
+    "title": "Odd one out 2",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "odd-one-out-2",
+    "title": "Odd one out 3",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "odd-one-out-3",
+    "title": "Odd one out 4",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "odd-one-out-4",
+    "title": "Odd one out 5",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "odd-one-out-5",
+    "title": "Odd one out 6",
+    "mechanic": "ODD_ONE_OUT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "🍎",
+        "🍌",
+        "🚗",
+        "🍇"
+      ],
+      "odd": "🚗"
+    }
+  },
+  {
+    "id": "pattern-copy-0",
+    "title": "Copy the pattern 1",
+    "mechanic": "PATTERN_COPY",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "pattern-copy-1",
+    "title": "Copy the pattern 2",
+    "mechanic": "PATTERN_COPY",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌",
+        "🍇"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "pattern-copy-2",
+    "title": "Copy the pattern 3",
+    "mechanic": "PATTERN_COPY",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "pattern-copy-3",
+    "title": "Copy the pattern 4",
+    "mechanic": "PATTERN_COPY",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "pattern-copy-4",
+    "title": "Copy the pattern 5",
+    "mechanic": "PATTERN_COPY",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌",
+        "🍇"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "pattern-copy-5",
+    "title": "Copy the pattern 6",
+    "mechanic": "PATTERN_COPY",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "pattern": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉"
+      ],
+      "options": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕",
+        "🌽"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-0",
+    "title": "Put the day in order 1",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": false,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-1",
+    "title": "Put the day in order 2",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": true,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-2",
+    "title": "Put the day in order 3",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": false,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-3",
+    "title": "Put the day in order 4",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": true,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-4",
+    "title": "Put the day in order 5",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": false,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "sequence-order-5",
+    "title": "Put the day in order 6",
+    "mechanic": "SEQUENCE_ORDER",
+    "pro": true,
+    "skills": [
+      "planning"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "steps": [
+        "Wake up",
+        "Get dressed",
+        "Eat breakfast",
+        "Go out"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-0",
+    "title": "Remember the grid 1",
+    "mechanic": "MEMORY_GRID",
+    "pro": false,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 3,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-1",
+    "title": "Remember the grid 2",
+    "mechanic": "MEMORY_GRID",
+    "pro": true,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 4,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-2",
+    "title": "Remember the grid 3",
+    "mechanic": "MEMORY_GRID",
+    "pro": false,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 5,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-3",
+    "title": "Remember the grid 4",
+    "mechanic": "MEMORY_GRID",
+    "pro": true,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 3,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-4",
+    "title": "Remember the grid 5",
+    "mechanic": "MEMORY_GRID",
+    "pro": false,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 4,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉"
+      ]
+    }
+  },
+  {
+    "id": "memory-grid-5",
+    "title": "Remember the grid 6",
+    "mechanic": "MEMORY_GRID",
+    "pro": true,
+    "skills": [
+      "memory"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 5,
+      "symbols": [
+        "🍎",
+        "🍌",
+        "🍇",
+        "🍉",
+        "🥕"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-0",
+    "title": "Big to small 1",
+    "mechanic": "SIZE_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-1",
+    "title": "Big to small 2",
+    "mechanic": "SIZE_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-2",
+    "title": "Big to small 3",
+    "mechanic": "SIZE_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-3",
+    "title": "Big to small 4",
+    "mechanic": "SIZE_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-4",
+    "title": "Big to small 5",
+    "mechanic": "SIZE_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "size-sort-5",
+    "title": "Big to small 6",
+    "mechanic": "SIZE_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "items": [
+        "horse",
+        "dog",
+        "mouse",
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-0",
+    "title": "Find the shape 1",
+    "mechanic": "SHAPE_MATCH",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "circle",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-1",
+    "title": "Find the shape 2",
+    "mechanic": "SHAPE_MATCH",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "square",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-2",
+    "title": "Find the shape 3",
+    "mechanic": "SHAPE_MATCH",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "triangle",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-3",
+    "title": "Find the shape 4",
+    "mechanic": "SHAPE_MATCH",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "circle",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-4",
+    "title": "Find the shape 5",
+    "mechanic": "SHAPE_MATCH",
+    "pro": false,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "square",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "shape-match-5",
+    "title": "Find the shape 6",
+    "mechanic": "SHAPE_MATCH",
+    "pro": true,
+    "skills": [
+      "attention"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "shape": "triangle",
+      "options": [
+        "circle",
+        "square",
+        "triangle"
+      ]
+    }
+  },
+  {
+    "id": "estimate-count-0",
+    "title": "Estimate, then count 1",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 6
+    }
+  },
+  {
+    "id": "estimate-count-1",
+    "title": "Estimate, then count 2",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 7
+    }
+  },
+  {
+    "id": "estimate-count-2",
+    "title": "Estimate, then count 3",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 8
+    }
+  },
+  {
+    "id": "estimate-count-3",
+    "title": "Estimate, then count 4",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 9
+    }
+  },
+  {
+    "id": "estimate-count-4",
+    "title": "Estimate, then count 5",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 10
+    }
+  },
+  {
+    "id": "estimate-count-5",
+    "title": "Estimate, then count 6",
+    "mechanic": "ESTIMATE_COUNT",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "n": 11
+    }
+  },
+  {
+    "id": "time-elapsed-0",
+    "title": "How long between? 1",
+    "mechanic": "TIME_ELAPSED",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "9:00",
+      "end": "10:00",
+      "answer": "1 hour"
+    }
+  },
+  {
+    "id": "time-elapsed-1",
+    "title": "How long between? 2",
+    "mechanic": "TIME_ELAPSED",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "2:00",
+      "end": "2:30",
+      "answer": "30 minutes"
+    }
+  },
+  {
+    "id": "time-elapsed-2",
+    "title": "How long between? 3",
+    "mechanic": "TIME_ELAPSED",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "4:00",
+      "end": "5:30",
+      "answer": "1 hour 30 minutes"
+    }
+  },
+  {
+    "id": "time-elapsed-3",
+    "title": "How long between? 4",
+    "mechanic": "TIME_ELAPSED",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "9:00",
+      "end": "10:00",
+      "answer": "1 hour"
+    }
+  },
+  {
+    "id": "time-elapsed-4",
+    "title": "How long between? 5",
+    "mechanic": "TIME_ELAPSED",
+    "pro": false,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "2:00",
+      "end": "2:30",
+      "answer": "30 minutes"
+    }
+  },
+  {
+    "id": "time-elapsed-5",
+    "title": "How long between? 6",
+    "mechanic": "TIME_ELAPSED",
+    "pro": true,
+    "skills": [
+      "time"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "start": "4:00",
+      "end": "5:30",
+      "answer": "1 hour 30 minutes"
+    }
+  },
+  {
+    "id": "category-sort-0",
+    "title": "Sort it: apple 1",
+    "mechanic": "CATEGORY_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "apple",
+      "category": "Fruit",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "category-sort-1",
+    "title": "Sort it: bus 2",
+    "mechanic": "CATEGORY_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "bus",
+      "category": "Transport",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "category-sort-2",
+    "title": "Sort it: chair 3",
+    "mechanic": "CATEGORY_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "chair",
+      "category": "Furniture",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "category-sort-3",
+    "title": "Sort it: cat 4",
+    "mechanic": "CATEGORY_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "cat",
+      "category": "Animals",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "category-sort-4",
+    "title": "Sort it: apple 5",
+    "mechanic": "CATEGORY_SORT",
+    "pro": false,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "apple",
+      "category": "Fruit",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "category-sort-5",
+    "title": "Sort it: bus 6",
+    "mechanic": "CATEGORY_SORT",
+    "pro": true,
+    "skills": [
+      "thinking"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "item": "bus",
+      "category": "Transport",
+      "options": [
+        "Fruit",
+        "Transport",
+        "Furniture",
+        "Animals"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-0",
+    "title": "How would you feel? 1",
+    "mechanic": "EMOTION_MATCH",
+    "pro": false,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "Someone shares their snack with you",
+      "feeling": "Happy",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-1",
+    "title": "How would you feel? 2",
+    "mechanic": "EMOTION_MATCH",
+    "pro": true,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "Your tower falls over",
+      "feeling": "Frustrated",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-2",
+    "title": "How would you feel? 3",
+    "mechanic": "EMOTION_MATCH",
+    "pro": false,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "A loud alarm rings",
+      "feeling": "Startled",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-3",
+    "title": "How would you feel? 4",
+    "mechanic": "EMOTION_MATCH",
+    "pro": true,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "You get a hug from someone you like",
+      "feeling": "Warm",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-4",
+    "title": "How would you feel? 5",
+    "mechanic": "EMOTION_MATCH",
+    "pro": false,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "It rains on your walk",
+      "feeling": "Annoyed",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "emotion-match-5",
+    "title": "How would you feel? 6",
+    "mechanic": "EMOTION_MATCH",
+    "pro": true,
+    "skills": [
+      "feelings"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "situation": "You find your lost toy",
+      "feeling": "Relieved",
+      "options": [
+        "Happy",
+        "Frustrated",
+        "Startled",
+        "Warm",
+        "Annoyed",
+        "Relieved"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-0",
+    "title": "Follow it 1",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": false,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "If you walk out of a house, are you inside or outside?",
+      "answer": "Outside",
+      "options": [
+        "Outside",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-1",
+    "title": "Follow it 2",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": true,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "If the cup is under the book, what do you lift?",
+      "answer": "The book",
+      "options": [
+        "The book",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-2",
+    "title": "Follow it 3",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": false,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "Left hand or right hand holds a glove's thumb hole?",
+      "answer": "Either",
+      "options": [
+        "Either",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-3",
+    "title": "Follow it 4",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": true,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "If you walk out of a house, are you inside or outside?",
+      "answer": "Outside",
+      "options": [
+        "Outside",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-4",
+    "title": "Follow it 5",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": false,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "If the cup is under the book, what do you lift?",
+      "answer": "The book",
+      "options": [
+        "The book",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "direction-follow-5",
+    "title": "Follow it 6",
+    "mechanic": "DIRECTION_FOLLOW",
+    "pro": true,
+    "skills": [
+      "spatial"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "instruction": "Left hand or right hand holds a glove's thumb hole?",
+      "answer": "Either",
+      "options": [
+        "Either",
+        "Neither",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-0",
+    "title": "Compare 3 and 5 1",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 3,
+      "b": 5,
+      "answer": "Smaller",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-1",
+    "title": "Compare 7 and 7 2",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 7,
+      "b": 7,
+      "answer": "Same",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-2",
+    "title": "Compare 3 and 5 3",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 3,
+      "b": 5,
+      "answer": "Smaller",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-3",
+    "title": "Compare 7 and 7 4",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 7,
+      "b": 7,
+      "answer": "Same",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-4",
+    "title": "Compare 3 and 5 5",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": false,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 3,
+      "b": 5,
+      "answer": "Smaller",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "number-balance-5",
+    "title": "Compare 7 and 7 6",
+    "mechanic": "NUMBER_BALANCE",
+    "pro": true,
+    "skills": [
+      "counting"
+    ],
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "a": 7,
+      "b": 7,
+      "answer": "Same",
+      "options": [
+        "Bigger",
+        "Smaller",
+        "Same"
+      ]
+    }
+  },
+  {
+    "id": "sound-match-0",
+    "title": "Which sound? 1",
+    "mechanic": "SOUND_MATCH",
+    "pro": false,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A dog barking",
+      "answer": "Dog",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/George_vuf_1996.ogg"
+    }
+  },
+  {
+    "id": "sound-match-1",
+    "title": "Which sound? 2",
+    "mechanic": "SOUND_MATCH",
+    "pro": true,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Rain on a window",
+      "answer": "Rain",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rain.ogg"
+    }
+  },
+  {
+    "id": "sound-match-2",
+    "title": "Which sound? 3",
+    "mechanic": "SOUND_MATCH",
+    "pro": false,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A kettle boiling",
+      "answer": "Kettle",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boiling_water_being_poured_into_a_mug_for_tea.ogg"
+    }
+  },
+  {
+    "id": "sound-match-3",
+    "title": "Which sound? 4",
+    "mechanic": "SOUND_MATCH",
+    "pro": true,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Birds in the morning",
+      "answer": "Birds",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Birds_forest.ogg"
+    }
+  },
+  {
+    "id": "sound-match-4",
+    "title": "Which sound? 5",
+    "mechanic": "SOUND_MATCH",
+    "pro": false,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "A car passing",
+      "answer": "Car",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://freesound.org/people/colorsCrimsonTears/sounds/538687/"
+    }
+  },
+  {
+    "id": "sound-match-5",
+    "title": "Which sound? 6",
+    "mechanic": "SOUND_MATCH",
+    "pro": true,
+    "skills": [
+      "listening"
+    ],
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "params": {
+      "env": "Waves at a beach",
+      "answer": "Waves",
+      "options": [
+        "Dog",
+        "Rain",
+        "Kettle",
+        "Birds",
+        "Car",
+        "Waves"
+      ],
+      "audioUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beach_sounds_South_Carolina.ogg"
+    }
   }
- },
- {
-  "id": "spot-difference-1",
-  "title": "Spot the difference 2",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🥕",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    0
-   ]
-  }
- },
- {
-  "id": "spot-difference-2",
-  "title": "Spot the difference 3",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🍉",
-    "🚌"
-   ],
-   "diffs": [
-    6
-   ]
-  }
- },
- {
-  "id": "spot-difference-3",
-  "title": "Spot the difference 4",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🌙"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "spot-difference-4",
-  "title": "Spot the difference 5",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🍌",
-    "🚌"
-   ],
-   "diffs": [
-    6
-   ]
-  }
- },
- {
-  "id": "spot-difference-5",
-  "title": "Spot the difference 6",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚗"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "spot-difference-6",
-  "title": "Spot the difference 7",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🍎",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    5
-   ]
-  }
- },
- {
-  "id": "spot-difference-7",
-  "title": "Spot the difference 8",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "☁️",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    0
-   ]
-  }
- },
- {
-  "id": "spot-difference-8",
-  "title": "Spot the difference 9",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🌽"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "spot-difference-9",
-  "title": "Spot the difference 10",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍎",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    2
-   ]
-  }
- },
- {
-  "id": "spot-difference-10",
-  "title": "Spot the difference 11",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🌙",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    3
-   ]
-  }
- },
- {
-  "id": "spot-difference-11",
-  "title": "Spot the difference 12",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🥕",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    5
-   ]
-  }
- },
- {
-  "id": "spot-difference-12",
-  "title": "Spot the difference 13",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🍇",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    5
-   ]
-  }
- },
- {
-  "id": "spot-difference-13",
-  "title": "Spot the difference 14",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🥕"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "spot-difference-14",
-  "title": "Spot the difference 15",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🥕",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    0
-   ]
-  }
- },
- {
-  "id": "spot-difference-15",
-  "title": "Spot the difference 16",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🌽",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    1
-   ]
-  }
- },
- {
-  "id": "spot-difference-16",
-  "title": "Spot the difference 17",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🚌",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    5
-   ]
-  }
- },
- {
-  "id": "spot-difference-17",
-  "title": "Spot the difference 18",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🌸"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "spot-difference-18",
-  "title": "Spot the difference 19",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🌸",
-    "🚌"
-   ],
-   "diffs": [
-    6
-   ]
-  }
- },
- {
-  "id": "spot-difference-19",
-  "title": "Spot the difference 20",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🚗",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    0
-   ]
-  }
- },
- {
-  "id": "spot-difference-20",
-  "title": "Spot the difference 21",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍎",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    1
-   ]
-  }
- },
- {
-  "id": "spot-difference-21",
-  "title": "Spot the difference 22",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "☁️",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    2
-   ]
-  }
- },
- {
-  "id": "spot-difference-22",
-  "title": "Spot the difference 23",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🚌",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "diffs": [
-    2
-   ]
-  }
- },
- {
-  "id": "spot-difference-23",
-  "title": "Spot the difference 24",
-  "mechanic": "SPOT_DIFFERENCE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pairs": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "🚌"
-   ],
-   "pairsB": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽",
-    "🚗",
-    "⭐"
-   ],
-   "diffs": [
-    7
-   ]
-  }
- },
- {
-  "id": "clock-reading-0",
-  "title": "What time is it? 1",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 1,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-1",
-  "title": "What time is it? 2",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 2,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-2",
-  "title": "What time is it? 3",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 3,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-3",
-  "title": "What time is it? 4",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 4,
-   "minute": 45
-  }
- },
- {
-  "id": "clock-reading-4",
-  "title": "What time is it? 5",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 5,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-5",
-  "title": "What time is it? 6",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 6,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-6",
-  "title": "What time is it? 7",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 7,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-7",
-  "title": "What time is it? 8",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 8,
-   "minute": 45
-  }
- },
- {
-  "id": "clock-reading-8",
-  "title": "What time is it? 9",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 9,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-9",
-  "title": "What time is it? 10",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 10,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-10",
-  "title": "What time is it? 11",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 11,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-11",
-  "title": "What time is it? 12",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 12,
-   "minute": 45
-  }
- },
- {
-  "id": "clock-reading-12",
-  "title": "What time is it? 13",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 1,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-13",
-  "title": "What time is it? 14",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 2,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-14",
-  "title": "What time is it? 15",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 3,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-15",
-  "title": "What time is it? 16",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 4,
-   "minute": 45
-  }
- },
- {
-  "id": "clock-reading-16",
-  "title": "What time is it? 17",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 5,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-17",
-  "title": "What time is it? 18",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 6,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-18",
-  "title": "What time is it? 19",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 7,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-19",
-  "title": "What time is it? 20",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 8,
-   "minute": 45
-  }
- },
- {
-  "id": "clock-reading-20",
-  "title": "What time is it? 21",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 9,
-   "minute": 0
-  }
- },
- {
-  "id": "clock-reading-21",
-  "title": "What time is it? 22",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 10,
-   "minute": 30
-  }
- },
- {
-  "id": "clock-reading-22",
-  "title": "What time is it? 23",
-  "mechanic": "CLOCK_READING",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 11,
-   "minute": 15
-  }
- },
- {
-  "id": "clock-reading-23",
-  "title": "What time is it? 24",
-  "mechanic": "CLOCK_READING",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "hour": 12,
-   "minute": 45
-  }
- },
- {
-  "id": "money-count-0",
-  "title": "Count the money 1",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-1",
-  "title": "Count the money 2",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    200,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-2",
-  "title": "Count the money 3",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    200,
-    500,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-3",
-  "title": "Count the money 4",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-4",
-  "title": "Count the money 5",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    200,
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-5",
-  "title": "Count the money 6",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    100,
-    500,
-    200
-   ]
-  }
- },
- {
-  "id": "money-count-6",
-  "title": "Count the money 7",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-7",
-  "title": "Count the money 8",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    200,
-    50,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-8",
-  "title": "Count the money 9",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    200,
-    500,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-9",
-  "title": "Count the money 10",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-10",
-  "title": "Count the money 11",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50,
-    200
-   ]
-  }
- },
- {
-  "id": "money-count-11",
-  "title": "Count the money 12",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    100,
-    200,
-    500
-   ]
-  }
- },
- {
-  "id": "money-count-12",
-  "title": "Count the money 13",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-13",
-  "title": "Count the money 14",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    200,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-14",
-  "title": "Count the money 15",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    500,
-    200,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-15",
-  "title": "Count the money 16",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-16",
-  "title": "Count the money 17",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    200,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-17",
-  "title": "Count the money 18",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    50,
-    200,
-    100,
-    500
-   ]
-  }
- },
- {
-  "id": "money-count-18",
-  "title": "Count the money 19",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-19",
-  "title": "Count the money 20",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50,
-    200
-   ]
-  }
- },
- {
-  "id": "money-count-20",
-  "title": "Count the money 21",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    200,
-    50,
-    500,
-    100
-   ]
-  }
- },
- {
-  "id": "money-count-21",
-  "title": "Count the money 22",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-22",
-  "title": "Count the money 23",
-  "mechanic": "MONEY_COUNT",
-  "pro": false,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    200,
-    50
-   ]
-  }
- },
- {
-  "id": "money-count-23",
-  "title": "Count the money 24",
-  "mechanic": "MONEY_COUNT",
-  "pro": true,
-  "skills": [
-   "money"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "coins": [
-    100,
-    500,
-    50,
-    200
-   ]
-  }
- },
- {
-  "id": "true-or-false-0",
-  "title": "True or false 1",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A week has seven days.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-1",
-  "title": "True or false 2",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "There are twelve months in a year.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-2",
-  "title": "True or false 3",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Ice is colder than water.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-3",
-  "title": "True or false 4",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A triangle has four sides.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-4",
-  "title": "True or false 5",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "The sun rises in the morning.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-5",
-  "title": "True or false 6",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Ten is less than five.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-6",
-  "title": "True or false 7",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Birds can fly.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-7",
-  "title": "True or false 8",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Fish live in trees.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-8",
-  "title": "True or false 9",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Two plus two equals four.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-9",
-  "title": "True or false 10",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Rain is dry.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-10",
-  "title": "True or false 11",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A bus has wheels.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-11",
-  "title": "True or false 12",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Night comes after day.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-12",
-  "title": "True or false 13",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A square has three corners.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-13",
-  "title": "True or false 14",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Milk is a drink.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-14",
-  "title": "True or false 15",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Shoes are worn on hands.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-15",
-  "title": "True or false 16",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A clock shows time.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-16",
-  "title": "True or false 17",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Five is more than three.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-17",
-  "title": "True or false 18",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Cats bark.",
-   "answer": false
-  }
- },
- {
-  "id": "true-or-false-18",
-  "title": "True or false 19",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Water boils when heated.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-19",
-  "title": "True or false 20",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Sunday comes after Saturday.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-20",
-  "title": "True or false 21",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "A half is smaller than a whole.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-21",
-  "title": "True or false 22",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Winter is usually cold.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-22",
-  "title": "True or false 23",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Apples grow on trees.",
-   "answer": true
-  }
- },
- {
-  "id": "true-or-false-23",
-  "title": "True or false 24",
-  "mechanic": "TRUE_OR_FALSE",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "statement": "Spoons are used for cutting wood.",
-   "answer": false
-  }
- },
- {
-  "id": "stop-the-clock-0",
-  "title": "Stop the clock 1",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 3
-  }
- },
- {
-  "id": "stop-the-clock-1",
-  "title": "Stop the clock 2",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 4
-  }
- },
- {
-  "id": "stop-the-clock-2",
-  "title": "Stop the clock 3",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 5
-  }
- },
- {
-  "id": "stop-the-clock-3",
-  "title": "Stop the clock 4",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 6
-  }
- },
- {
-  "id": "stop-the-clock-4",
-  "title": "Stop the clock 5",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 7
-  }
- },
- {
-  "id": "stop-the-clock-5",
-  "title": "Stop the clock 6",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 8
-  }
- },
- {
-  "id": "stop-the-clock-6",
-  "title": "Stop the clock 7",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 9
-  }
- },
- {
-  "id": "stop-the-clock-7",
-  "title": "Stop the clock 8",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 10
-  }
- },
- {
-  "id": "stop-the-clock-8",
-  "title": "Stop the clock 9",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 3
-  }
- },
- {
-  "id": "stop-the-clock-9",
-  "title": "Stop the clock 10",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 4
-  }
- },
- {
-  "id": "stop-the-clock-10",
-  "title": "Stop the clock 11",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 5
-  }
- },
- {
-  "id": "stop-the-clock-11",
-  "title": "Stop the clock 12",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 6
-  }
- },
- {
-  "id": "stop-the-clock-12",
-  "title": "Stop the clock 13",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 7
-  }
- },
- {
-  "id": "stop-the-clock-13",
-  "title": "Stop the clock 14",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 8
-  }
- },
- {
-  "id": "stop-the-clock-14",
-  "title": "Stop the clock 15",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 9
-  }
- },
- {
-  "id": "stop-the-clock-15",
-  "title": "Stop the clock 16",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 10
-  }
- },
- {
-  "id": "stop-the-clock-16",
-  "title": "Stop the clock 17",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 3
-  }
- },
- {
-  "id": "stop-the-clock-17",
-  "title": "Stop the clock 18",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 4
-  }
- },
- {
-  "id": "stop-the-clock-18",
-  "title": "Stop the clock 19",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 5
-  }
- },
- {
-  "id": "stop-the-clock-19",
-  "title": "Stop the clock 20",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 6
-  }
- },
- {
-  "id": "stop-the-clock-20",
-  "title": "Stop the clock 21",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 7
-  }
- },
- {
-  "id": "stop-the-clock-21",
-  "title": "Stop the clock 22",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 8
-  }
- },
- {
-  "id": "stop-the-clock-22",
-  "title": "Stop the clock 23",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": false,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 9
-  }
- },
- {
-  "id": "stop-the-clock-23",
-  "title": "Stop the clock 24",
-  "mechanic": "STOP_THE_CLOCK",
-  "pro": true,
-  "skills": [
-   "timing"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "target": 10
-  }
- },
- {
-  "id": "change-count-0",
-  "title": "Which sound? 1",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A dog barking",
-   "answer": "Dog",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-1",
-  "title": "Which sound? 2",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Rain on a window",
-   "answer": "Rain",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-2",
-  "title": "Which sound? 3",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A kettle boiling",
-   "answer": "Kettle",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-3",
-  "title": "Which sound? 4",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Birds in the morning",
-   "answer": "Birds",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-4",
-  "title": "Which sound? 5",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A car passing",
-   "answer": "Car",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-5",
-  "title": "Which sound? 6",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Waves at a beach",
-   "answer": "Waves",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-6",
-  "title": "Which sound? 7",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A dog barking",
-   "answer": "Dog",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-7",
-  "title": "Which sound? 8",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Rain on a window",
-   "answer": "Rain",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-8",
-  "title": "Which sound? 9",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A kettle boiling",
-   "answer": "Kettle",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-9",
-  "title": "Which sound? 10",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Birds in the morning",
-   "answer": "Birds",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-10",
-  "title": "Which sound? 11",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A car passing",
-   "answer": "Car",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-11",
-  "title": "Which sound? 12",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Waves at a beach",
-   "answer": "Waves",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-12",
-  "title": "Which sound? 13",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A dog barking",
-   "answer": "Dog",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-13",
-  "title": "Which sound? 14",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Rain on a window",
-   "answer": "Rain",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-14",
-  "title": "Which sound? 15",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A kettle boiling",
-   "answer": "Kettle",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-15",
-  "title": "Which sound? 16",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Birds in the morning",
-   "answer": "Birds",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-16",
-  "title": "Which sound? 17",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A car passing",
-   "answer": "Car",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-17",
-  "title": "Which sound? 18",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Waves at a beach",
-   "answer": "Waves",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-18",
-  "title": "Which sound? 19",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A dog barking",
-   "answer": "Dog",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-19",
-  "title": "Which sound? 20",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Rain on a window",
-   "answer": "Rain",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-20",
-  "title": "Which sound? 21",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "CHILD",
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A kettle boiling",
-   "answer": "Kettle",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-21",
-  "title": "Which sound? 22",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Birds in the morning",
-   "answer": "Birds",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-22",
-  "title": "Which sound? 23",
-  "mechanic": "CHANGE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A car passing",
-   "answer": "Car",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "change-count-23",
-  "title": "Which sound? 24",
-  "mechanic": "CHANGE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Waves at a beach",
-   "answer": "Waves",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "colour-rule-0",
-  "title": "Colour rule 1",
-  "mechanic": "COLOUR_RULE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the red one",
-   "options": [
-    "🟥",
-    "🟦",
-    "🟩"
-   ]
-  }
- },
- {
-  "id": "colour-rule-1",
-  "title": "Colour rule 2",
-  "mechanic": "COLOUR_RULE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the green one",
-   "options": [
-    "🟩",
-    "🟥",
-    "🟨"
-   ]
-  }
- },
- {
-  "id": "colour-rule-2",
-  "title": "Colour rule 3",
-  "mechanic": "COLOUR_RULE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the yellow one",
-   "options": [
-    "🟨",
-    "🟪",
-    "🟦"
-   ]
-  }
- },
- {
-  "id": "colour-rule-3",
-  "title": "Colour rule 4",
-  "mechanic": "COLOUR_RULE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the red one",
-   "options": [
-    "🟥",
-    "🟦",
-    "🟩"
-   ]
-  }
- },
- {
-  "id": "colour-rule-4",
-  "title": "Colour rule 5",
-  "mechanic": "COLOUR_RULE",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the green one",
-   "options": [
-    "🟩",
-    "🟥",
-    "🟨"
-   ]
-  }
- },
- {
-  "id": "colour-rule-5",
-  "title": "Colour rule 6",
-  "mechanic": "COLOUR_RULE",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "rule": "Pick the yellow one",
-   "options": [
-    "🟨",
-    "🟪",
-    "🟦"
-   ]
-  }
- },
- {
-  "id": "odd-one-out-0",
-  "title": "Odd one out 1",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "odd-one-out-1",
-  "title": "Odd one out 2",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "odd-one-out-2",
-  "title": "Odd one out 3",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "odd-one-out-3",
-  "title": "Odd one out 4",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "odd-one-out-4",
-  "title": "Odd one out 5",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "odd-one-out-5",
-  "title": "Odd one out 6",
-  "mechanic": "ODD_ONE_OUT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "🍎",
-    "🍌",
-    "🚗",
-    "🍇"
-   ],
-   "odd": "🚗"
-  }
- },
- {
-  "id": "pattern-copy-0",
-  "title": "Copy the pattern 1",
-  "mechanic": "PATTERN_COPY",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "pattern-copy-1",
-  "title": "Copy the pattern 2",
-  "mechanic": "PATTERN_COPY",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌",
-    "🍇"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "pattern-copy-2",
-  "title": "Copy the pattern 3",
-  "mechanic": "PATTERN_COPY",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "pattern-copy-3",
-  "title": "Copy the pattern 4",
-  "mechanic": "PATTERN_COPY",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "pattern-copy-4",
-  "title": "Copy the pattern 5",
-  "mechanic": "PATTERN_COPY",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌",
-    "🍇"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "pattern-copy-5",
-  "title": "Copy the pattern 6",
-  "mechanic": "PATTERN_COPY",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "pattern": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉"
-   ],
-   "options": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕",
-    "🌽"
-   ]
-  }
- },
- {
-  "id": "sequence-order-0",
-  "title": "Put the day in order 1",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": false,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "sequence-order-1",
-  "title": "Put the day in order 2",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": true,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "sequence-order-2",
-  "title": "Put the day in order 3",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": false,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "sequence-order-3",
-  "title": "Put the day in order 4",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": true,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "sequence-order-4",
-  "title": "Put the day in order 5",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": false,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "sequence-order-5",
-  "title": "Put the day in order 6",
-  "mechanic": "SEQUENCE_ORDER",
-  "pro": true,
-  "skills": [
-   "planning"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "steps": [
-    "Wake up",
-    "Get dressed",
-    "Eat breakfast",
-    "Go out"
-   ]
-  }
- },
- {
-  "id": "memory-grid-0",
-  "title": "Remember the grid 1",
-  "mechanic": "MEMORY_GRID",
-  "pro": false,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 3,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇"
-   ]
-  }
- },
- {
-  "id": "memory-grid-1",
-  "title": "Remember the grid 2",
-  "mechanic": "MEMORY_GRID",
-  "pro": true,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 4,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉"
-   ]
-  }
- },
- {
-  "id": "memory-grid-2",
-  "title": "Remember the grid 3",
-  "mechanic": "MEMORY_GRID",
-  "pro": false,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 5,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕"
-   ]
-  }
- },
- {
-  "id": "memory-grid-3",
-  "title": "Remember the grid 4",
-  "mechanic": "MEMORY_GRID",
-  "pro": true,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 3,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇"
-   ]
-  }
- },
- {
-  "id": "memory-grid-4",
-  "title": "Remember the grid 5",
-  "mechanic": "MEMORY_GRID",
-  "pro": false,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 4,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉"
-   ]
-  }
- },
- {
-  "id": "memory-grid-5",
-  "title": "Remember the grid 6",
-  "mechanic": "MEMORY_GRID",
-  "pro": true,
-  "skills": [
-   "memory"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 5,
-   "symbols": [
-    "🍎",
-    "🍌",
-    "🍇",
-    "🍉",
-    "🥕"
-   ]
-  }
- },
- {
-  "id": "size-sort-0",
-  "title": "Big to small 1",
-  "mechanic": "SIZE_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "size-sort-1",
-  "title": "Big to small 2",
-  "mechanic": "SIZE_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "size-sort-2",
-  "title": "Big to small 3",
-  "mechanic": "SIZE_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "size-sort-3",
-  "title": "Big to small 4",
-  "mechanic": "SIZE_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "size-sort-4",
-  "title": "Big to small 5",
-  "mechanic": "SIZE_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "size-sort-5",
-  "title": "Big to small 6",
-  "mechanic": "SIZE_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "items": [
-    "horse",
-    "dog",
-    "mouse",
-    "ant"
-   ]
-  }
- },
- {
-  "id": "shape-match-0",
-  "title": "Find the shape 1",
-  "mechanic": "SHAPE_MATCH",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "circle",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "shape-match-1",
-  "title": "Find the shape 2",
-  "mechanic": "SHAPE_MATCH",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "square",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "shape-match-2",
-  "title": "Find the shape 3",
-  "mechanic": "SHAPE_MATCH",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "triangle",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "shape-match-3",
-  "title": "Find the shape 4",
-  "mechanic": "SHAPE_MATCH",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "circle",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "shape-match-4",
-  "title": "Find the shape 5",
-  "mechanic": "SHAPE_MATCH",
-  "pro": false,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "square",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "shape-match-5",
-  "title": "Find the shape 6",
-  "mechanic": "SHAPE_MATCH",
-  "pro": true,
-  "skills": [
-   "attention"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "shape": "triangle",
-   "options": [
-    "circle",
-    "square",
-    "triangle"
-   ]
-  }
- },
- {
-  "id": "estimate-count-0",
-  "title": "Estimate, then count 1",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 6
-  }
- },
- {
-  "id": "estimate-count-1",
-  "title": "Estimate, then count 2",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 7
-  }
- },
- {
-  "id": "estimate-count-2",
-  "title": "Estimate, then count 3",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 8
-  }
- },
- {
-  "id": "estimate-count-3",
-  "title": "Estimate, then count 4",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 9
-  }
- },
- {
-  "id": "estimate-count-4",
-  "title": "Estimate, then count 5",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 10
-  }
- },
- {
-  "id": "estimate-count-5",
-  "title": "Estimate, then count 6",
-  "mechanic": "ESTIMATE_COUNT",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "n": 11
-  }
- },
- {
-  "id": "time-elapsed-0",
-  "title": "How long between? 1",
-  "mechanic": "TIME_ELAPSED",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "9:00",
-   "end": "10:00",
-   "answer": "1 hour"
-  }
- },
- {
-  "id": "time-elapsed-1",
-  "title": "How long between? 2",
-  "mechanic": "TIME_ELAPSED",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "2:00",
-   "end": "2:30",
-   "answer": "30 minutes"
-  }
- },
- {
-  "id": "time-elapsed-2",
-  "title": "How long between? 3",
-  "mechanic": "TIME_ELAPSED",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "4:00",
-   "end": "5:30",
-   "answer": "1 hour 30 minutes"
-  }
- },
- {
-  "id": "time-elapsed-3",
-  "title": "How long between? 4",
-  "mechanic": "TIME_ELAPSED",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "9:00",
-   "end": "10:00",
-   "answer": "1 hour"
-  }
- },
- {
-  "id": "time-elapsed-4",
-  "title": "How long between? 5",
-  "mechanic": "TIME_ELAPSED",
-  "pro": false,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "2:00",
-   "end": "2:30",
-   "answer": "30 minutes"
-  }
- },
- {
-  "id": "time-elapsed-5",
-  "title": "How long between? 6",
-  "mechanic": "TIME_ELAPSED",
-  "pro": true,
-  "skills": [
-   "time"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "start": "4:00",
-   "end": "5:30",
-   "answer": "1 hour 30 minutes"
-  }
- },
- {
-  "id": "category-sort-0",
-  "title": "Sort it: apple 1",
-  "mechanic": "CATEGORY_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "apple",
-   "category": "Fruit",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "category-sort-1",
-  "title": "Sort it: bus 2",
-  "mechanic": "CATEGORY_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "bus",
-   "category": "Transport",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "category-sort-2",
-  "title": "Sort it: chair 3",
-  "mechanic": "CATEGORY_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "chair",
-   "category": "Furniture",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "category-sort-3",
-  "title": "Sort it: cat 4",
-  "mechanic": "CATEGORY_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "cat",
-   "category": "Animals",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "category-sort-4",
-  "title": "Sort it: apple 5",
-  "mechanic": "CATEGORY_SORT",
-  "pro": false,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "apple",
-   "category": "Fruit",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "category-sort-5",
-  "title": "Sort it: bus 6",
-  "mechanic": "CATEGORY_SORT",
-  "pro": true,
-  "skills": [
-   "thinking"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "item": "bus",
-   "category": "Transport",
-   "options": [
-    "Fruit",
-    "Transport",
-    "Furniture",
-    "Animals"
-   ]
-  }
- },
- {
-  "id": "emotion-match-0",
-  "title": "How would you feel? 1",
-  "mechanic": "EMOTION_MATCH",
-  "pro": false,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "Someone shares their snack with you",
-   "feeling": "Happy",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "emotion-match-1",
-  "title": "How would you feel? 2",
-  "mechanic": "EMOTION_MATCH",
-  "pro": true,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "Your tower falls over",
-   "feeling": "Frustrated",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "emotion-match-2",
-  "title": "How would you feel? 3",
-  "mechanic": "EMOTION_MATCH",
-  "pro": false,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "A loud alarm rings",
-   "feeling": "Startled",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "emotion-match-3",
-  "title": "How would you feel? 4",
-  "mechanic": "EMOTION_MATCH",
-  "pro": true,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "You get a hug from someone you like",
-   "feeling": "Warm",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "emotion-match-4",
-  "title": "How would you feel? 5",
-  "mechanic": "EMOTION_MATCH",
-  "pro": false,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "It rains on your walk",
-   "feeling": "Annoyed",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "emotion-match-5",
-  "title": "How would you feel? 6",
-  "mechanic": "EMOTION_MATCH",
-  "pro": true,
-  "skills": [
-   "feelings"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "situation": "You find your lost toy",
-   "feeling": "Relieved",
-   "options": [
-    "Happy",
-    "Frustrated",
-    "Startled",
-    "Warm",
-    "Annoyed",
-    "Relieved"
-   ]
-  }
- },
- {
-  "id": "direction-follow-0",
-  "title": "Follow it 1",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": false,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "If you walk out of a house, are you inside or outside?",
-   "answer": "Outside",
-   "options": [
-    "Outside",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "direction-follow-1",
-  "title": "Follow it 2",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": true,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "If the cup is under the book, what do you lift?",
-   "answer": "The book",
-   "options": [
-    "The book",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "direction-follow-2",
-  "title": "Follow it 3",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": false,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "Left hand or right hand holds a glove's thumb hole?",
-   "answer": "Either",
-   "options": [
-    "Either",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "direction-follow-3",
-  "title": "Follow it 4",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": true,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "If you walk out of a house, are you inside or outside?",
-   "answer": "Outside",
-   "options": [
-    "Outside",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "direction-follow-4",
-  "title": "Follow it 5",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": false,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "If the cup is under the book, what do you lift?",
-   "answer": "The book",
-   "options": [
-    "The book",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "direction-follow-5",
-  "title": "Follow it 6",
-  "mechanic": "DIRECTION_FOLLOW",
-  "pro": true,
-  "skills": [
-   "spatial"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "instruction": "Left hand or right hand holds a glove's thumb hole?",
-   "answer": "Either",
-   "options": [
-    "Either",
-    "Neither",
-    "Both"
-   ]
-  }
- },
- {
-  "id": "number-balance-0",
-  "title": "Compare 3 and 5 1",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 3,
-   "b": 5,
-   "answer": "Smaller",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "number-balance-1",
-  "title": "Compare 7 and 7 2",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 7,
-   "b": 7,
-   "answer": "Same",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "number-balance-2",
-  "title": "Compare 3 and 5 3",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 3,
-   "b": 5,
-   "answer": "Smaller",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "number-balance-3",
-  "title": "Compare 7 and 7 4",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 7,
-   "b": 7,
-   "answer": "Same",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "number-balance-4",
-  "title": "Compare 3 and 5 5",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": false,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 3,
-   "b": 5,
-   "answer": "Smaller",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "number-balance-5",
-  "title": "Compare 7 and 7 6",
-  "mechanic": "NUMBER_BALANCE",
-  "pro": true,
-  "skills": [
-   "counting"
-  ],
-  "bands": [
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "a": 7,
-   "b": 7,
-   "answer": "Same",
-   "options": [
-    "Bigger",
-    "Smaller",
-    "Same"
-   ]
-  }
- },
- {
-  "id": "sound-match-0",
-  "title": "Which sound? 1",
-  "mechanic": "SOUND_MATCH",
-  "pro": false,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A dog barking",
-   "answer": "Dog",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "sound-match-1",
-  "title": "Which sound? 2",
-  "mechanic": "SOUND_MATCH",
-  "pro": true,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Rain on a window",
-   "answer": "Rain",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "sound-match-2",
-  "title": "Which sound? 3",
-  "mechanic": "SOUND_MATCH",
-  "pro": false,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A kettle boiling",
-   "answer": "Kettle",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "sound-match-3",
-  "title": "Which sound? 4",
-  "mechanic": "SOUND_MATCH",
-  "pro": true,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Birds in the morning",
-   "answer": "Birds",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "sound-match-4",
-  "title": "Which sound? 5",
-  "mechanic": "SOUND_MATCH",
-  "pro": false,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "A car passing",
-   "answer": "Car",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- },
- {
-  "id": "sound-match-5",
-  "title": "Which sound? 6",
-  "mechanic": "SOUND_MATCH",
-  "pro": true,
-  "skills": [
-   "listening"
-  ],
-  "bands": [
-   "MIDDLE",
-   "TEEN",
-   "ADULT"
-  ],
-  "params": {
-   "env": "Waves at a beach",
-   "answer": "Waves",
-   "options": [
-    "Dog",
-    "Rain",
-    "Kettle",
-    "Birds",
-    "Car",
-    "Waves"
-   ]
-  }
- }
 ]
