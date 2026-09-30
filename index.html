@@ -37,10 +37,12 @@
 
   <h2>Install a build</h2>
   <div class="card">
-    <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>):</p>
-    <a class="btn" href="https://github.com/favour187/haven/releases/latest" target="_blank" rel="noopener">Latest release & APKs →</a>
-    <a class="btn secondary" href="https://github.com/favour187/haven/releases" target="_blank" rel="noopener">All releases</a>
-    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline.</p>
+    <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>) — <strong>v1.0.3</strong>:</p>
+    <a class="btn" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-arm64-v8a.apk" target="_blank" rel="noopener">Download for arm64 (most phones)</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-armeabi-v7a.apk" target="_blank" rel="noopener">Download for arm32 (older phones)</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-x86_64.apk" target="_blank" rel="noopener">Download for x86_64</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/latest" target="_blank" rel="noopener">Latest release page →</a>
+    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline. There is no universal APK since v1.0.3: it tripled the download size; the per-ABI files are the same app, smaller.</p>
   </div>
 
   <h2>Try it in the browser (early)</h2>
@@ -51,6 +53,7 @@
   <h2>What's new</h2>
   <div class="card">
     <ul>
+      <li><strong>v1.0.3</strong> — the app catches up with everything built since v1.0.2: <strong>Wearables</strong> (attach any standard Bluetooth watch, band, ring or heart-rate belt and see heart rate + battery live — fully offline, logged only on this phone; a Haven Plus feature), <strong>offline AI</strong> ships its on-device runtimes in the app (ONNX + ML Kit on all phones, llama + whisper on 64-bit ARM; model downloads are Haven Plus), <strong>game sounds</strong> plus fixes to game mechanics that were not responding, the <strong>ID card and tool screens are back</strong>, and <strong>Paystack checkout</strong> fixes (purchase start + reference handling; payment stays in the app). Downloads are now per-ABI only — three APKs, no universal.</li>
       <li><strong>v1.0.2</strong> — offline-first: the on-device AI models are bundled again (plus a universal APK for any phone), five real videos play offline (ABC, counting, rhymes, breathing), and SOS alerts fall back to a ready-to-send message when offline.</li>
       <li><strong>v1.0.1</strong> — big/small text applies everywhere instantly, Writing help, SOS alerts to trusted people, appointments with reminders, videos remember where you stopped.</li>
       <li><strong>v1.0.0</strong> — first release: all four age bands, 20 features, 228 games, encrypted storage, in-app checkout.</li>
