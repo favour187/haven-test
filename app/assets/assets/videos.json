@@ -11,7 +11,7 @@
     "captions": "assets/captions/v-dentist-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.61,
-    "thumb": "\ud83e\uddb7",
+    "thumb": "🦷",
     "needsRecording": false,
     "whatHappens": "Wait in the room, sit in the special chair, open your mouth, the dentist counts your teeth, done.",
     "assetPath": "assets/videos/v-dentist-1.mp4"
@@ -29,7 +29,7 @@
     "captions": "assets/captions/v-doctor-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.69,
-    "thumb": "\ud83e\ude7a",
+    "thumb": "🩺",
     "needsRecording": false,
     "whatHappens": "Say your name, step on the scale, the doctor listens to your chest, one question at a time, done.",
     "assetPath": "assets/videos/v-doctor-1.mp4"
@@ -46,7 +46,7 @@
     "captions": "assets/captions/v-haircut-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.64,
-    "thumb": "\ud83d\udc87",
+    "thumb": "💇",
     "needsRecording": false,
     "whatHappens": "Sit in the chair, the cape goes on, clippers buzz, hair falls, the cape comes off, done.",
     "assetPath": "assets/videos/v-haircut-1.mp4"
@@ -64,7 +64,7 @@
     "captions": "assets/captions/v-bus-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.61,
-    "thumb": "\ud83d\ude8c",
+    "thumb": "🚌",
     "needsRecording": false,
     "whatHappens": "Wait at the stop, get on, tap your card, sit down, watch your stop, pull the cord, get off.",
     "assetPath": "assets/videos/v-bus-1.mp4"
@@ -82,7 +82,7 @@
     "captions": "assets/captions/v-train-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.52,
-    "thumb": "\ud83d\ude86",
+    "thumb": "🚆",
     "needsRecording": false,
     "whatHappens": "Find the platform, check the board, board, find your seat, listen for your stop.",
     "assetPath": "assets/videos/v-train-1.mp4"
@@ -100,7 +100,7 @@
     "captions": "assets/captions/v-airport-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.43,
-    "thumb": "\u2708\ufe0f",
+    "thumb": "✈️",
     "needsRecording": false,
     "whatHappens": "Check bags, security: liquids out, walk through the scanner, collect things, find the gate, wait, board.",
     "assetPath": "assets/videos/v-airport-1.mp4"
@@ -118,7 +118,7 @@
     "captions": "assets/captions/v-school-first-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.65,
-    "thumb": "\ud83c\udfeb",
+    "thumb": "🏫",
     "needsRecording": false,
     "whatHappens": "Arrive at the gate, go to the office, meet the teacher, find your classroom, break time happens, home time.",
     "assetPath": "assets/videos/v-school-first-1.mp4"
@@ -135,7 +135,7 @@
     "captions": "assets/captions/v-work-first-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.65,
-    "thumb": "\ud83d\udcbc",
+    "thumb": "💼",
     "needsRecording": false,
     "whatHappens": "Arrive, say who you are at reception, meet your manager, get shown the desk and the tools, lunch happens, first task.",
     "assetPath": "assets/videos/v-work-first-1.mp4"
@@ -154,7 +154,7 @@
     "captions": "assets/captions/v-firealarm-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.35,
-    "thumb": "\ud83d\udea8",
+    "thumb": "🚨",
     "needsRecording": false,
     "whatHappens": "The sound starts, everyone walks out calmly, stand at the meeting point, the sound stops, we go back in. You can cover your ears.",
     "assetPath": "assets/videos/v-firealarm-1.mp4"
@@ -173,7 +173,7 @@
     "captions": "assets/captions/v-shopping-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.6,
-    "thumb": "\ud83d\uded2",
+    "thumb": "🛒",
     "needsRecording": false,
     "whatHappens": "Take a basket, find items on your list, queue, items move on the belt, pay, pack, done.",
     "assetPath": "assets/videos/v-shopping-1.mp4"
@@ -192,7 +192,7 @@
     "captions": "assets/captions/v-restaurant-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.51,
-    "thumb": "\ud83c\udf7d\ufe0f",
+    "thumb": "🍽️",
     "needsRecording": false,
     "whatHappens": "A waiter shows you a table, you choose food, food arrives, you eat, you ask for the bill, you pay.",
     "assetPath": "assets/videos/v-restaurant-1.mp4"
@@ -211,7 +211,7 @@
     "captions": "assets/captions/v-loud-places-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.4,
-    "thumb": "\ud83d\udd0a",
+    "thumb": "🔊",
     "needsRecording": false,
     "whatHappens": "What loud places feel like, and three things you can do: ear defenders, a break outside, or leaving. All are okay.",
     "assetPath": "assets/videos/v-loud-places-1.mp4"
@@ -229,7 +229,7 @@
     "captions": "assets/captions/v-newpeople-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.18,
-    "thumb": "\ud83e\udd1d",
+    "thumb": "🤝",
     "needsRecording": false,
     "whatHappens": "Say hello, say your name, one question each is enough. Leaving after a short time is allowed.",
     "assetPath": "assets/videos/v-newpeople-1.mp4"
@@ -248,7 +248,7 @@
     "captions": "assets/captions/v-bloodtest-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.29,
-    "thumb": "\ud83d\udc89",
+    "thumb": "💉",
     "needsRecording": false,
     "whatHappens": "Sit down, sleeve up, a tight band, a quick pinch, a small tube fills, a plaster, done in about two minutes.",
     "assetPath": "assets/videos/v-bloodtest-1.mp4"
@@ -266,7 +266,7 @@
     "captions": "assets/captions/v-moving-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.43,
-    "thumb": "\ud83d\udce6",
+    "thumb": "📦",
     "needsRecording": false,
     "whatHappens": "Boxes get packed, the van comes, things arrive in the new room in the same order, your bed is set up first.",
     "assetPath": "assets/videos/v-moving-1.mp4"
@@ -283,7 +283,7 @@
     "captions": "assets/captions/v-teacher-change-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.26,
-    "thumb": "\ud83e\uddd1\u200d\ud83c\udfeb",
+    "thumb": "🧑‍🏫",
     "needsRecording": false,
     "whatHappens": "The old teacher says goodbye, a new teacher has a different voice and different rules, and that is allowed to feel strange. The rules list stays the same.",
     "assetPath": "assets/videos/v-teacher-change-1.mp4"
@@ -299,7 +299,7 @@
     "captions": "assets/captions/v-bloodtest-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.48,
-    "thumb": "\ud83c\udfe5",
+    "thumb": "🏥",
     "needsRecording": false,
     "whatHappens": "Check in at reception, wait where it is quiet if you can, name called, appointment, next appointment booked, leave.",
     "assetPath": "assets/videos/v-bloodtest-adult.mp4"
@@ -315,7 +315,7 @@
     "captions": "assets/captions/v-bus-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.45,
-    "thumb": "\ud83d\ude8c",
+    "thumb": "🚌",
     "needsRecording": false,
     "whatHappens": "Check the time on the timetable app, stop A, three stops, get off at the stop before the bridge, walk two minutes.",
     "assetPath": "assets/videos/v-bus-adult.mp4"
@@ -332,7 +332,7 @@
     "captions": "assets/captions/v-school-transition.vtt",
     "downloadUrl": "",
     "sizeMB": 1.55,
-    "thumb": "\ud83c\udf92",
+    "thumb": "🎒",
     "needsRecording": false,
     "whatHappens": "Same building, new room number, new timetable on the wall, you can take a photo of it.",
     "assetPath": "assets/videos/v-school-transition.mp4"
@@ -348,7 +348,7 @@
     "captions": "assets/captions/v-interview-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.56,
-    "thumb": "\ud83e\ude91",
+    "thumb": "🪑",
     "needsRecording": false,
     "whatHappens": "Wait, name called, sit, questions one at a time, you may take notes, you may ask for a question again, it ends on time.",
     "assetPath": "assets/videos/v-interview-1.mp4"
@@ -364,7 +364,7 @@
     "captions": "assets/captions/v-loud-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.51,
-    "thumb": "\ud83d\udce2",
+    "thumb": "📢",
     "needsRecording": false,
     "whatHappens": "Plan the quiet exit first, earplugs in a pocket, a break is not leaving early, it is part of the plan.",
     "assetPath": "assets/videos/v-loud-adult.mp4"
@@ -381,7 +381,7 @@
     "captions": "assets/captions/v-train-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.79,
-    "thumb": "\ud83d\ude88",
+    "thumb": "🚈",
     "needsRecording": false,
     "whatHappens": "Platform board, quiet coach option, seat facing the wall, delay announcements are normal, not an emergency.",
     "assetPath": "assets/videos/v-train-adult.mp4"
@@ -398,7 +398,7 @@
     "captions": "assets/captions/v-haircut-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.41,
-    "thumb": "\ud83d\udc88",
+    "thumb": "💈",
     "needsRecording": false,
     "whatHappens": "Book the first slot of the day, say exactly what you want, clippers or scissors, no small talk required.",
     "assetPath": "assets/videos/v-haircut-adult.mp4"
@@ -415,7 +415,7 @@
     "captions": "assets/captions/v-airport-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.59,
-    "thumb": "\ud83d\udec3",
+    "thumb": "🛃",
     "needsRecording": false,
     "whatHappens": "Liquids in a clear bag, laptop out, tell staff you are autistic if you want more time, it is allowed.",
     "assetPath": "assets/videos/v-airport-adult.mp4"
@@ -431,7 +431,7 @@
     "captions": "assets/captions/v-shopping-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.77,
-    "thumb": "\ud83d\udecd\ufe0f",
+    "thumb": "🛍️",
     "needsRecording": false,
     "whatHappens": "Same list order as last time, quiet hour if the shop has one, self-checkout, headphones are fine.",
     "assetPath": "assets/videos/v-shopping-adult.mp4"
@@ -448,7 +448,7 @@
     "captions": "assets/captions/v-restaurant-adult.vtt",
     "downloadUrl": "",
     "sizeMB": 1.24,
-    "thumb": "\ud83e\udd57",
+    "thumb": "🥗",
     "needsRecording": false,
     "whatHappens": "Read the menu online first if you like, order exactly as written, asking for changes is normal.",
     "assetPath": "assets/videos/v-restaurant-adult.mp4"
@@ -464,7 +464,7 @@
     "captions": "assets/captions/v-newpeople-teen.vtt",
     "downloadUrl": "",
     "sizeMB": 1.68,
-    "thumb": "\ud83d\udc65",
+    "thumb": "👥",
     "needsRecording": false,
     "whatHappens": "Group work: one job each, you can ask for the written-instructions job, saying less is fine.",
     "assetPath": "assets/videos/v-newpeople-teen.mp4"
@@ -480,7 +480,7 @@
     "captions": "assets/captions/v-moving-teen.vtt",
     "downloadUrl": "",
     "sizeMB": 1.59,
-    "thumb": "\ud83d\udd00",
+    "thumb": "🔀",
     "needsRecording": false,
     "whatHappens": "One person leaves, a new one arrives, the notes about what helps you move with you.",
     "assetPath": "assets/videos/v-moving-teen.mp4"
@@ -498,7 +498,7 @@
     "captions": "assets/captions/v-crossing-road-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.2,
-    "thumb": "\ud83c\udf33",
+    "thumb": "🌳",
     "needsRecording": false,
     "whatHappens": "We are going to cross the road. Here is what will happen.",
     "assetPath": "assets/videos/v-crossing-road-1.mp4"
@@ -516,9 +516,192 @@
     "captions": "assets/captions/v-playground-1.vtt",
     "downloadUrl": "",
     "sizeMB": 1.62,
-    "thumb": "\ud83c\udf33",
+    "thumb": "🌳",
     "needsRecording": false,
     "whatHappens": "We are going to the playground. Here is what will happen.",
     "assetPath": "assets/videos/v-playground-1.mp4"
+  },
+  {
+    "id": "v-pharmacy-1",
+    "title": "Visiting a pharmacy",
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "pharmacy",
+    "durationSec": 39,
+    "captions": "assets/captions/v-pharmacy-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.89,
+    "thumb": "Rx",
+    "needsRecording": false,
+    "whatHappens": "Bring the prescription if you have one, say what you need, wait, ask the pharmacist any questions, then check the label together.",
+    "assetPath": "assets/videos/v-pharmacy-1.mp4"
+  },
+  {
+    "id": "v-library-1",
+    "title": "Going to a library",
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "library",
+    "durationSec": 33,
+    "captions": "assets/captions/v-library-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.83,
+    "thumb": "L",
+    "needsRecording": false,
+    "whatHappens": "Enter the library, ask about joining or finding a book, choose a quiet place, and check when borrowed books are due.",
+    "assetPath": "assets/videos/v-library-1.mp4"
+  },
+  {
+    "id": "v-taxi-1",
+    "title": "Taking a taxi or rideshare",
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "transport",
+    "durationSec": 36,
+    "captions": "assets/captions/v-taxi-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.85,
+    "thumb": "T",
+    "needsRecording": false,
+    "whatHappens": "Check the car and driver details in the app, confirm the destination, buckle up, and share your trip with someone if you choose.",
+    "assetPath": "assets/videos/v-taxi-1.mp4"
+  },
+  {
+    "id": "v-public-toilet-1",
+    "title": "Using a public restroom",
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "everyday",
+    "durationSec": 35,
+    "captions": "assets/captions/v-public-toilet-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.79,
+    "thumb": "WC",
+    "needsRecording": false,
+    "whatHappens": "Find the restroom, wait if needed, use a cubicle, wash your hands, and return to the person or place you came from.",
+    "assetPath": "assets/videos/v-public-toilet-1.mp4"
+  },
+  {
+    "id": "v-quiet-break-1",
+    "title": "Asking for a quiet break",
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "sensory",
+    "durationSec": 35,
+    "captions": "assets/captions/v-quiet-break-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.75,
+    "thumb": "Q",
+    "needsRecording": false,
+    "whatHappens": "Notice when a place feels too busy, use a phrase or break card, go to an agreed quiet space, and return when ready.",
+    "assetPath": "assets/videos/v-quiet-break-1.mp4"
+  },
+  {
+    "id": "v-phone-call-1",
+    "title": "Calling to book an appointment",
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "communication",
+    "durationSec": 28,
+    "captions": "assets/captions/v-phone-call-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.69,
+    "thumb": "☎",
+    "needsRecording": false,
+    "whatHappens": "Write down your question, call when ready, say your name and what you need, ask for the time to be repeated, and note it down.",
+    "assetPath": "assets/videos/v-phone-call-1.mp4"
+  },
+  {
+    "id": "v-bus-delay-1",
+    "title": "When a bus is delayed",
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "transport",
+    "durationSec": 31,
+    "captions": "assets/captions/v-bus-delay-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.81,
+    "thumb": "B",
+    "needsRecording": false,
+    "whatHappens": "Check the information board or travel app, find a safe place to wait, contact someone if plans change, and choose the next step.",
+    "assetPath": "assets/videos/v-bus-delay-1.mp4"
+  },
+  {
+    "id": "v-new-support-person-1",
+    "title": "Meeting a new support person",
+    "bands": [
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "meeting new people",
+    "durationSec": 30,
+    "captions": "assets/captions/v-new-support-person-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.67,
+    "thumb": "Hi",
+    "needsRecording": false,
+    "whatHappens": "Meet in an agreed place, learn the person's name, share what helps you, ask questions, and take time to get comfortable.",
+    "assetPath": "assets/videos/v-new-support-person-1.mp4"
+  },
+  {
+    "id": "v-lost-1",
+    "title": "Asking for help when lost",
+    "bands": [
+      "CHILD",
+      "MIDDLE",
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "safety",
+    "durationSec": 28,
+    "captions": "assets/captions/v-lost-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.72,
+    "thumb": "?",
+    "needsRecording": false,
+    "whatHappens": "Pause somewhere safe, find a staffed help point or trusted adult, contact someone you know, and stay in a public place while you make a plan.",
+    "assetPath": "assets/videos/v-lost-1.mp4"
+  },
+  {
+    "id": "v-atm-1",
+    "title": "Using an ATM safely",
+    "bands": [
+      "TEEN",
+      "ADULT"
+    ],
+    "category": "money and safety",
+    "durationSec": 28,
+    "captions": "assets/captions/v-atm-1.vtt",
+    "downloadUrl": "",
+    "sizeMB": 0.62,
+    "thumb": "ATM",
+    "needsRecording": false,
+    "whatHappens": "Choose a bright public machine, protect your PIN, follow the screen one step at a time, and take your card and cash before leaving.",
+    "assetPath": "assets/videos/v-atm-1.mp4"
   }
 ]
