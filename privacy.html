@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Haven — Privacy Policy</title>
+<meta name="description" content="Haven keeps everything on your device. No ads, no analytics, no account.">
+<style>
+  :root { --ink:#20303c; --soft:#5c7285; --line:#dbe4ea; --accent:#4a6b8a; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:#f4f7f9; line-height:1.6; }
+  main { max-width:720px; margin:0 auto; padding:32px 20px 64px; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:14px; padding:28px 30px; margin:14px 0; }
+  h1 { font-size:1.7rem; margin:0 0 4px; }
+  h2 { font-size:1.15rem; margin:28px 0 8px; }
+  h3 { font-size:1rem; margin:20px 0 6px; }
+  .tag { color:var(--soft); font-size:.9rem; }
+  p, li { font-size:.97rem; }
+  ul { padding-left:22px; }
+  li { margin:6px 0; }
+  code { background:#eef2f5; padding:1px 6px; border-radius:6px; font-size:.9em; }
+  hr { border:0; border-top:1px solid var(--line); margin:26px 0; }
+  a { color:var(--accent); }
+  footer { color:var(--soft); font-size:.85rem; margin-top:32px; text-align:center; }
+</style>
+</head>
+<body>
+<main>
+  <div class="card">
+<h1>Haven Privacy Policy</h1>
+<p><strong>Last updated: 2 October 2026</strong></p>
+<p>Haven is a private, offline-first daily-life companion. This policy explains what Haven does with your information. The short version: <strong>Haven keeps everything on your device</strong>, and nothing is sent anywhere unless you actively choose a feature that needs the network.</p>
+<hr>
+<h2>What stays on your device</h2>
+<p>Everything you create in Haven stays on your device:</p>
+<ul>
+<li>Notes, journal entries, mood and body check-ins</li>
+<li>AAC cards, schedules and "what will happen" plans</li>
+<li>Sensory profiles, meltdown plans and scripts</li>
+<li>Appointments, energy budgets and focus sessions</li>
+<li>Settings and accessibility preferences</li>
+<li>Any photo or audio you ask Haven to read</li>
+</ul>
+<p>On Android, iOS, Windows, macOS and Linux this is stored in a local database encrypted with <strong>SQLCipher</strong>. In a browser it is stored in that browser profile using local storage — still local, still never uploaded, but not encrypted at rest in the same way.</p>
+<p>There is <strong>no account</strong>. Haven does not know who you are, and there is nothing to sign in to.</p>
+<hr>
+<h2>What is never collected</h2>
+<p>Haven has:</p>
+<ul>
+<li><strong>No advertising</strong></li>
+<li><strong>No analytics</strong> — no crash reporting, no usage tracking, no telemetry</li>
+<li><strong>No third-party SDKs</strong> that collect data</li>
+<li><strong>No data broker or resale of any kind</strong></li>
+</ul>
+<hr>
+<h2>When Haven uses the network</h2>
+<p>Haven works fully offline. The only features that use the network are ones you start yourself:</p>
+<h3>Buying Haven Plus</h3>
+<p>Checkout goes through <strong>Paystack</strong>. You type your email and Paystack handles the card or bank payment on its own page; Haven never sees your card details.</p>
+<p>When you come back to Haven, it asks a small server (a Cloudflare Worker) to confirm with Paystack that the payment really went through. That check sends the <strong>purchase reference only</strong> — no notes, no personal content, no device data. Haven never trusts the browser to say a payment succeeded; only a server-side verification unlocks Plus.</p>
+<h3>Optional cloud extras</h3>
+<p>If you deliberately turn on an optional networked extra (for example a server-side summary), only what that feature needs leaves the device, and only when you press the button. Turning <strong>Offline only</strong> on in Settings stops every network call, including these.</p>
+<h3>Downloading an offline AI model</h3>
+<p>The offline AI models are optional downloads from a public model repository (Hugging Face). When you choose to download one, that request goes to the model host — Haven sends no information about you with it. Once downloaded, the model runs entirely on your device: prompts, images and audio never leave it.</p>
+<hr>
+<h2>Wearables (Bluetooth)</h2>
+<p>If you connect a wearable, Haven reads supported readings <strong>directly over Bluetooth LE</strong> from the device: heart rate, battery, blood pressure, pulse oximetry, and step/sleep records from a Bluetooth Physical Activity Monitor.</p>
+<ul>
+<li>Readings are stored on your phone with the rest of your data.</li>
+<li>Readings are <strong>never uploaded</strong> to Haven or to any server.</li>
+<li>Vendor-specific features depend on what the wearable exposes; Haven does not</li>
+<p>guess at data it does not receive.</p>
+<li>Disconnect the wearable at any time in Settings.</li>
+</ul>
+<p>On Android, Haven reads this directly over Bluetooth and does <strong>not</strong> require Health Connect or any other health-data app.</p>
+<hr>
+<h2>Camera, microphone and photos</h2>
+<p>Haven asks for these permissions only for features you start:</p>
+<ul>
+<li><strong>Camera / photos</strong> — to read a sign, label or letter on the device, or to</li>
+<p>attach an image to a note.</p>
+<li><strong>Microphone</strong> — only to record audio you ask Haven to transcribe.</li>
+</ul>
+<p>When the offline AI is installed, this processing happens <strong>on the device</strong>. It is not uploaded.</p>
+<hr>
+<h2>Trusted people</h2>
+<p>If you add a trusted person, Haven can open your phone or SMS app with a message ready to send. <strong>Haven never sends the call or the message itself</strong> — you review it and you press Send.</p>
+<hr>
+<h2>Children</h2>
+<p>Haven is designed for four age bands: 4–7, 8–12, 13–17 and 18+.</p>
+<ul>
+<li>Child and middle bands (under 13) make <strong>no network calls at all</strong>, beyond</li>
+<p>nothing — the networked features above are not available to them.</p>
+<li>No data from a child's device is ever collected, because Haven collects</li>
+<p>nothing in the first place.</p>
+</ul>
+<hr>
+<h2>Your controls</h2>
+<ul>
+<li><strong>Export</strong> anything you have written.</li>
+<li><strong>Delete</strong> individual entries, or clear everything from Settings.</li>
+<li>Turn on <strong>Offline only</strong> to cut every network connection.</li>
+<li>Set a <strong>PIN</strong> to lock the app.</li>
+</ul>
+<p>Deleting your data in Haven deletes it from the device. Because there is no server-side copy of your content, there is nothing else to erase.</p>
+<hr>
+<h2>Data security</h2>
+<p>The local database is encrypted with SQLCipher. The encryption key is derived and stored by the app on your device; Haven has no way to recover it, and therefore no way to read your data.</p>
+<hr>
+<h2>Changes to this policy</h2>
+<p>If this policy ever changes, the change will be described in the app's release notes and on this page. Haven will never start collecting data that this policy says it does not collect.</p>
+<hr>
+<h2>Contact</h2>
+<p>Questions about privacy: open an issue on the Haven repository, or email the developer at the address listed on the store listing.</p>
+<hr>
+<h2>A note on health information</h2>
+<p>Haven is a daily-life companion. It is <strong>not</strong> a medical device and does not diagnose, treat or monitor any condition. It does not replace professional care or the support of a trusted person, and should not be used for urgent concerns.</p>
+  </div>
+  <footer><a href="./">← Haven test builds</a> · Haven · favour187</footer>
+</main>
+</body>
+</html>

@@ -21,13 +21,18 @@
   a.btn.secondary { background:#e6edf2; color:var(--ink); }
   code { background:#eef2f5; padding:1px 6px; border-radius:6px; font-size:.9em; }
   ul { margin:8px 0; padding-left:22px; }
+  li { margin:6px 0; }
   footer { color:var(--soft); font-size:.85rem; margin-top:40px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:10px; margin-top:10px; }
+  .plat { border:1px solid var(--line); border-radius:10px; padding:10px 12px; background:#fbfdfe; }
+  .plat b { display:block; }
+  .plat span { color:var(--soft); font-size:.85rem; }
 </style>
 </head>
 <body>
 <main>
   <h1>Haven</h1>
-  <p class="tag">Temporary test page — download the latest build, check the backend, see what changed. This page is for the project owner while Haven is being finished.</p>
+  <p class="tag">Temporary test page — download the latest build, try the app in the browser, check the backend, see what changed. This page is for the project owner while Haven is being finished.</p>
 
   <h2>Backend status (live)</h2>
   <div class="card">
@@ -35,33 +40,52 @@
     <div class="meta" id="statusMeta">haven.onilamolubunmi.workers.dev</div>
   </div>
 
-  <h2>Install a build</h2>
+  <h2>Install a build — <strong id="ver">v1.1.3 (build 11)</strong></h2>
   <div class="card">
-    <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>) — <strong>v1.0.3</strong>:</p>
-    <a class="btn" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-arm64-v8a.apk" target="_blank" rel="noopener">Download for arm64 (most phones)</a>
-    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-armeabi-v7a.apk" target="_blank" rel="noopener">Download for arm32 (older phones)</a>
-    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/v1.0.3/haven-v1.0.3-x86_64.apk" target="_blank" rel="noopener">Download for x86_64</a>
-    <a class="btn secondary" href="https://github.com/favour187/haven/releases/latest" target="_blank" rel="noopener">Latest release page →</a>
-    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline. There is no universal APK since v1.0.3: it tripled the download size; the per-ABI files are the same app, smaller.</p>
+    <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>):</p>
+    <a class="btn" href="https://github.com/favour187/haven/releases/download/latest-build/haven-arm64-v8a.apk" target="_blank" rel="noopener">Download for arm64 (most phones)</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/latest-build/haven-armeabi-v7a.apk" target="_blank" rel="noopener">Download for arm32 (older phones)</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/latest-build/haven-x86_64.apk" target="_blank" rel="noopener">Download for x86_64</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/tag/latest-build" target="_blank" rel="noopener">Latest build page →</a>
+    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline. The app is signed with the Haven release key, so an update installs over the previous version. There is no universal APK: it tripled the download size; the per-ABI files are the same app, smaller.</p>
     <p class="meta">The APKs live on the private repository — if a download link opens a 404, sign in to GitHub as <strong>favour187</strong> in this browser first, then retry.</p>
   </div>
 
-  <h2>Try it in the browser (early)</h2>
+  <h2>Try it in the browser</h2>
   <div class="card">
-    <p>A web build of the app appears <a id="webLink" href="app/">here</a> once the web build lands. The browser version is for trying flows — your data stays in this browser, and checkout runs in the Android app.</p>
+    <p><a class="btn" id="webLink" href="app/">Open the web build</a> <span class="meta" id="webVer">checking version…</span></p>
+    <p class="meta">The browser version is for trying flows — your data stays in this browser, and checkout runs in the Android app. It is rebuilt automatically on every push to <code>favour187/haven</code>. First load can take up to a minute while the engine downloads; after that it opens quickly.</p>
+    <p class="meta">Offline AI models download and run on the <strong>Android</strong> build only — the on-device runtimes are not ported to the web, so the Offline AI screen says so there instead of showing buttons that cannot work.</p>
+  </div>
+
+  <h2>Six platforms, one codebase</h2>
+  <div class="card">
+    <div class="grid">
+      <div class="plat"><b>Android</b><span>Signed APKs + AAB, built in CI</span></div>
+      <div class="plat"><b>iOS</b><span>App built on a Mac — <code>pod install</code>, then <code>flutter build ipa</code></span></div>
+      <div class="plat"><b>Web</b><span>This page, rebuilt by CI</span></div>
+      <div class="plat"><b>Windows</b><span><code>flutter build windows</code></span></div>
+      <div class="plat"><b>macOS</b><span><code>flutter build macos</code></span></div>
+      <div class="plat"><b>Linux</b><span><code>flutter build linux</code></span></div>
+    </div>
+    <p class="meta">The layout adapts to the window: one column on a phone, up to four on a desktop, with content capped and centred so text never stretches across a monitor.</p>
   </div>
 
   <h2>What's new</h2>
   <div class="card">
     <ul>
-      <li><strong>v1.0.3</strong> — the app catches up with everything built since v1.0.2: <strong>Wearables</strong> (attach any standard Bluetooth watch, band, ring or heart-rate belt and see heart rate + battery live — fully offline, logged only on this phone; a Haven Plus feature), <strong>offline AI</strong> ships its on-device runtimes in the app (ONNX + ML Kit on all phones, llama + whisper on 64-bit ARM; model downloads are Haven Plus), <strong>game sounds</strong> plus fixes to game mechanics that were not responding, the <strong>ID card and tool screens are back</strong>, and <strong>Paystack checkout</strong> fixes (purchase start + reference handling; payment stays in the app). Downloads are now per-ABI only — three APKs, no universal.</li>
-      <li><strong>v1.0.2</strong> — offline-first: the on-device AI models are bundled again (plus a universal APK for any phone), five real videos play offline (ABC, counting, rhymes, breathing), and SOS alerts fall back to a ready-to-send message when offline.</li>
+      <li><strong>v1.1.3</strong> — <strong>every platform</strong>: iOS, macOS, Windows and Linux runners added (the iOS app had never been in the repository — <code>ios/</code> was git-ignored). <strong>Adaptive layout</strong> for phone, tablet, desktop and browser. <strong>Victory sound</strong>: games finish with a short, calm fanfare, with a switch to turn it off in Accessibility. <strong>Offline AI</strong> models can be <strong>imported from a file you already have</strong>, downloads show real progress and can be stopped. Added the build book for all six platforms, an APKPure submission guide and a privacy policy.</li>
+      <li><strong>v1.1.2</strong> — standards-based wearable profiles and Bluetooth Physical Activity Monitor history (steps and sleep, read straight from the watch).</li>
+      <li><strong>v1.1.0</strong> — wearables over Bluetooth LE, daily guidance, media controls, signed AAB for Google Play, worker refresh.</li>
+      <li><strong>v1.0.6</strong> — checkout can no longer hang; payments are confirmed by the server when you return to Haven.</li>
+      <li><strong>v1.0.3</strong> — wearables, on-device AI runtimes shipped in the app, game sounds, ID card and tool screens restored, Paystack checkout fixes. Downloads are per-ABI only — three APKs, no universal.</li>
+      <li><strong>v1.0.2</strong> — offline-first: on-device AI models bundled again, five real videos play offline, SOS alerts fall back to a ready-to-send message when offline.</li>
       <li><strong>v1.0.1</strong> — big/small text applies everywhere instantly, Writing help, SOS alerts to trusted people, appointments with reminders, videos remember where you stopped.</li>
       <li><strong>v1.0.0</strong> — first release: all four age bands, 20 features, 228 games, encrypted storage, in-app checkout.</li>
     </ul>
   </div>
 
-  <footer>Haven · same features as Supportive, rebuilt in Flutter · this page is temporary and will move when the app is ready.</footer>
+  <footer>Haven · same features as Supportive, rebuilt in Flutter · <a href="privacy.html">Privacy policy</a> · this page is temporary and will move when the app is ready.</footer>
 </main>
 <script>
   fetch('https://haven.onilamolubunmi.workers.dev/health')
@@ -77,6 +101,15 @@
       } else { dot.classList.add('bad'); text.textContent = 'Backend responded but not healthy'; }
     })
     .catch(() => { const d = document.getElementById('dot'); d.classList.add('bad'); document.getElementById('statusText').textContent = 'Backend unreachable'; });
+
+  // Show which build is actually published, read from the build's own file.
+  fetch('app/version.json')
+    .then(r => r.json())
+    .then(v => {
+      document.getElementById('webVer').textContent =
+        'Web build: v' + v.version + ' (build ' + v.build_number + ')';
+    })
+    .catch(() => { document.getElementById('webVer').textContent = 'Web build: not published yet'; });
 </script>
 </body>
 </html>
