@@ -40,21 +40,22 @@
     <div class="meta" id="statusMeta">haven.onilamolubunmi.workers.dev</div>
   </div>
 
-  <h2>Install a build — <strong id="ver">v1.9.16 (build 39)</strong></h2>
+  <h2>Install a build — <strong id="ver">v1.9.17 (build 40)</strong></h2>
   <div class="card">
     <p>Pick the file that matches your phone (most phones are <strong>arm64</strong>):</p>
-    <a class="btn" href="https://github.com/favour187/haven/releases/download/latest-build/haven-arm64-v8a.apk" target="_blank" rel="noopener">Download for arm64 (most phones)</a>
-    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/latest-build/haven-armeabi-v7a.apk" target="_blank" rel="noopener">Download for arm32 (older phones)</a>
+    <a class="btn" href="https://github.com/favour187/haven/releases/download/latest-build/Haven-Android-ARM64-v8a.apk" target="_blank" rel="noopener">Download for arm64 (most phones)</a>
+    <a class="btn secondary" href="https://github.com/favour187/haven/releases/download/latest-build/Haven-Android-ARM32-v7a.apk" target="_blank" rel="noopener">Download for arm32 (older phones)</a>
     <a class="btn secondary" href="https://github.com/favour187/haven/releases/tag/latest-build" target="_blank" rel="noopener">Latest build page →</a>
-    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven is private — no ads, no tracking, works offline. The app is signed with the Haven release key, so an update installs over the previous version. There is no universal APK (it tripled the download size) and no x86_64 build (emulator-only, ~30 MB of libraries no phone installs).</p>
+    <p class="meta">On the phone: download, open the APK, allow "install unknown apps" for the browser if asked. Haven has no ads or tracking; core local features work offline, while network-dependent features need a connection. The app is signed with the Haven release key, so an update installs over the previous version. This rolling test release contains arm64 and arm32 APKs; no universal or x86_64 APK is included.</p>
+    <p class="meta">These low-memory test builds are unminified and passed static package/signature checks. No Android device was available for an install or runtime smoke test in this pass.</p>
     <p class="meta">The APKs live on the private repository — if a download link opens a 404, sign in to GitHub as <strong>favour187</strong> in this browser first, then retry.</p>
   </div>
 
   <h2>Try it in the browser</h2>
   <div class="card">
     <p><a class="btn" id="webLink" href="app/">Open the web build</a> <span class="meta" id="webVer">checking version…</span></p>
-    <p class="meta">This is <strong>v1.9.16 (build 39)</strong> — the current code. The browser version is for trying flows: your data stays in this browser, and checkout runs in the Android app. First load can take up to a minute while the engine downloads; after that it opens quickly.</p>
-    <p class="meta">These APKs are <strong>1.9.16 (build 39)</strong> — the current code — signed with the Haven release key, so they install over an older version and over a Play Store build. The same code is also packaged as a signed Play Store bundle, <code>haven-1.9.16-39.aab</code>, in the <a href="https://github.com/favour187/haven/releases/tag/v1.9.16" target="_blank" rel="noopener">v1.9.16 release</a>; a bundle cannot be sideloaded, it is what goes to Google Play.</p>
+    <p class="meta">This is <strong>v1.9.17 (build 40)</strong> — the current code. The browser version is for trying flows: your data stays in this browser, and checkout runs in the Android app. First load can take up to a minute while the engine downloads; after that it opens quickly.</p>
+    <p class="meta">These rolling APKs are <strong>1.9.17 (build 40)</strong>, signed with the Haven release key so they can update an older installation with the same signing identity. This pass does not include a new Play Store bundle. The previous signed bundle remains in the <a href="https://github.com/favour187/haven/releases/tag/v1.9.16" target="_blank" rel="noopener">v1.9.16 release</a>; a bundle cannot be sideloaded, it is what goes to Google Play.</p>
     <p class="meta">Offline AI models download and run on the <strong>Android</strong> build only — the on-device runtimes are not ported to the web, so the Offline AI screen says so there instead of showing buttons that cannot work.</p>
   </div>
 
@@ -73,6 +74,7 @@
 
   <h2>What's new</h2>
   <div class="card">
+      <p><strong>v1.9.17</strong> — restores the intended AAC starter pictures and caregiver message photos across database backends, fixes picture-card editing and routine/media lifecycle issues, prevents narrow-screen home overflow, and normalizes invalid browser locales before Flutter starts. The web build passed a hosted-path Chromium smoke flow; Android package and signature checks passed, but no device was available.</p>
       <p><strong>v1.9.12 – v1.9.16</strong> — a caregiver page for each person; snap the child's own cup or blanket and name it; Haven counts what happens on the board and writes a brief (counts, never a diagnosis); the caregiver answers with one picture and one word, which lands on the board as a tile; the role question is asked once; real photographs on the board; the app notices whether there is data and says which features need it (finding a film online, Groq, paying, sending to another phone); a film chosen online is downloaded once and then plays with no internet; a choice made with no data is kept instead of lost; each install now has its own database key; and the privacy policy covers all of it. It is also the first release with a signed Play bundle of the current code: <code>haven-1.9.16-39.aab</code>, 108.7 MB, arm64 and arm32, in the <a href="https://github.com/favour187/haven/releases/tag/v1.9.16" target="_blank" rel="noopener">v1.9.16 release</a>.</p>
     <ul>
       <li><strong>v1.1.3</strong> — <strong>every platform</strong>: iOS, macOS, Windows and Linux runners added (the iOS app had never been in the repository — <code>ios/</code> was git-ignored). <strong>Adaptive layout</strong> for phone, tablet, desktop and browser. <strong>Victory sound</strong>: games finish with a short, calm fanfare, with a switch to turn it off in Accessibility. <strong>Offline AI</strong> models can be <strong>imported from a file you already have</strong>, downloads show real progress and can be stopped. Added the build book for all six platforms, an APKPure submission guide and a privacy policy.</li>

@@ -59,6 +59,33 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
+  <script>
+    // Chromium on Linux can expose a POSIX value such as "en-US@posix".
+    // The web engine passes navigator.languages to Intl.Locale, which rejects
+    // that value before Haven can start. Keep valid browser locales untouched;
+    // otherwise remove the POSIX modifier and use a safe fallback.
+    (function () {
+      function isValidLocale(value) {
+        try { new Intl.Locale(value); return true; } catch (_) { return false; }
+      }
+      var original = Array.from(navigator.languages || [navigator.language || 'en-US']);
+      if (original.every(isValidLocale)) return;
+      var normalized = original.map(function (value) {
+        var base = String(value).split('@')[0].replace(/_/g, '-');
+        return isValidLocale(base) ? base : 'en-US';
+      }).filter(function (value, index, values) {
+        return values.indexOf(value) === index;
+      });
+      Object.defineProperty(navigator, 'languages', {
+        configurable: true,
+        get: function () { return normalized; }
+      });
+      Object.defineProperty(navigator, 'language', {
+        configurable: true,
+        get: function () { return normalized[0]; }
+      });
+    })();
+  </script>
   <script src="flutter_bootstrap.js" async></script>
   <div id="boot">
     <div class="ring"></div>
