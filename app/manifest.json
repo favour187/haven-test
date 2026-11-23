@@ -3,10 +3,10 @@
     "short_name": "Haven",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#f4f7f9",
-    "theme_color": "#4a6b8a",
-    "description": "Haven — a calm, private daily-life companion. Offline by default, no ads and no tracking.",
-    "orientation": "portrait-primary",
+    "background_color": "#f7f8fa",
+    "theme_color": "#486274",
+    "description": "Haven — a calm, private daily-life companion. Core tools work offline; connected features use the internet.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {

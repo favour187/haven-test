@@ -29,25 +29,36 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>haven</title>
+  <title>Haven</title>
   <link rel="manifest" href="manifest.json">
-  <!-- Boot loader: visible instantly, before any engine JS downloads. -->
+  <!-- Visible immediately, before the Flutter engine has loaded. -->
   <style>
     #boot {
       position: fixed; inset: 0; z-index: 9999;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
-      background: #f4f7f9; color: #20303c;
+      background: #f7f8fa; color: #20272d;
       font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
       transition: opacity .5s ease;
     }
     #boot .ring {
       width: 46px; height: 46px; border-radius: 50%;
-      border: 4px solid #dbe4ea; border-top-color: #4a6b8a;
+      border: 4px solid #cdd5dc; border-top-color: #486274;
       animation: spin 1.1s linear infinite; margin-bottom: 18px;
     }
     #boot .t { font-size: 1.5rem; font-weight: 700; }
-    #boot .s { margin-top: 8px; color: #5c7285; font-size: .95rem; text-align: center; padding: 0 24px; }
+    #boot .s { margin-top: 8px; color: #48545f; font-size: 1rem; text-align: center; padding: 0 24px; max-width: 28rem; line-height: 1.5; }
+    #boot button {
+      margin-top: 22px; padding: 12px 20px; min-height: 48px;
+      border: 2px solid #486274; border-radius: 14px;
+      background: #486274; color: #fff; font: inherit; font-weight: 700; cursor: pointer;
+    }
+    #boot button:focus-visible { outline: 3px solid #20272d; outline-offset: 3px; }
+    #boot [hidden] { display: none; }
     @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      #boot { transition: none; }
+      #boot .ring { animation: none; }
+    }
   </style>
 </head>
 <body>
@@ -88,15 +99,15 @@
   </script>
   <script src="flutter_bootstrap.js" async></script>
   <div id="boot">
-    <div class="ring"></div>
+    <div class="ring" aria-hidden="true"></div>
     <div class="t">Haven</div>
-    <div class="s">Loading — the first start can take up to a minute.<br>After that it opens quickly.</div>
+    <div class="s" id="boot-status" role="status" aria-live="polite">Loading your space. This may take a moment.</div>
+    <button id="boot-retry" type="button" hidden>Reload Haven</button>
   </div>
   <script>
-    // Flutter draws into a canvas inside nested shadow roots
-    // (flutter-view -> flt-glass-pane -> shadow canvas), which plain
-    // querySelector cannot see. Probe every place it can be, and always
-    // fade out after 90 s as a safety net.
+    // Flutter can paint inside nested shadow roots. Keep the loading message
+    // until the app appears; if it takes too long, offer a clear retry instead
+    // of removing the overlay and leaving a blank screen.
     (function () {
       function canvasPainted() {
         if (document.querySelector('canvas')) return true;
@@ -104,19 +115,25 @@
         if (gp && gp.shadowRoot && gp.shadowRoot.querySelector('canvas')) return true;
         var v = document.querySelector('flutter-view');
         if (v && v.shadowRoot && v.shadowRoot.querySelector('canvas')) return true;
-        var any = document.querySelectorAll('flt-glass-pane, flt-scene-host');
-        return any.length > 0;
+        return document.querySelectorAll('flt-glass-pane, flt-scene-host').length > 0;
       }
+      var status = document.getElementById('boot-status');
+      var retry = document.getElementById('boot-retry');
+      retry.addEventListener('click', function () { window.location.reload(); });
       var ticks = 0;
       var timer = setInterval(function () {
         ticks++;
-        if (canvasPainted() || ticks > 180) {
+        if (canvasPainted()) {
           clearInterval(timer);
           var boot = document.getElementById('boot');
           if (boot) {
             boot.style.opacity = '0';
-            setTimeout(function () { boot.remove(); }, 600);
+            var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+            setTimeout(function () { boot.remove(); }, reduced ? 0 : 600);
           }
+        } else if (ticks === 180) {
+          status.textContent = 'Haven is taking longer than expected. Check your connection, then try again.';
+          retry.hidden = false;
         }
       }, 500);
     })();
